@@ -1,852 +1,344 @@
-0	4	0	không có quạt_điện mà chỉ có_điều hoà nên có chút bất_tiện .
-1	4	0	đồ_dùng trong toilet là đồ sử_dụng lại .
-2	4	0	không phải đồ nguyên seal
-3	1	1	nhân_viên dễ_thương .
-4	6	0	có chỗ trong phòng_không bắt được wifi
-5	0	0	không giống như quảng_cáo và đánh_giá trên booking .
-6	2	0	đặt phòng suite nhưng vì hết nên cho lên phòng cao nhất nằm phía sau , k có cửa_kính ban_công như đã book trước đó .
-7	2	0	ok không sao nhưng phòng quá nhiều muỗi .
-8	2	0	mình mang theo bé 3 tháng phải trả phòng trong đêm vì muỗi quá nhiều không_thể ngủ được .
-9	4	0	toilet bẩn , bàn trà_bẩn , lau không sạch , còn rất nhiều vết trà và cà_phê cũ .
-10	2	0	nền gạch rít do không lau .
-11	4	0	không có ly uống nước , mặc_dù đi thang_máy xuống nhiều lần nhưng ks bảo không có ly .
-12	4	0	theo đánh_giá khen trên booking đa_phần nói nội_thất mới mình không hề thấy mới .
-13	4	0	rất cũ_kĩ .
-14	1	0	từ khi vào ở đến lúc check out lễ_tân đều đi ngủ trong phòng_không ra tiếp khách .
-15	1	0	điện_thoại bàn không gọi được cho lễ_tân .
-16	1	0	và tệ nhất_là không gạc công tắt máy_lạnh , mình phải xuống tận lễ_tân yêu_cầu .
-17	2	1	nếu lần sau thay_đổi thì mình sẽ đến lại vì giá ok .
-18	6	1	wifi + nước mạnh , .
-19	1	1	ngày nào đi chơi về cũng như có cô tấm mới xuất_hiện : ) ) .
-20	5	1	khách_sạn cách cửa_hàng tiện_lợi vài_ba căn , nằm rất gần biển ( khoảng 5p đi bộ ) .
-21	1	1	khách_sạn còn cho gửi đồ lại dù đã trả phòng nữa .
-22	0	1	cảm_giác rất dễ_chịu .
-23	2	0	phòng đúng là cách_âm không được tốt .
-24	1	0	cô dọn phòng cũng quên để các loại khăn và nước free cho phòng mình .
-25	1	1	nhưng_mà mấy bạn lễ_tân dễ_thương lắm , ra nói cô quên cái là mấy bạn lấy đưa liền .
-26	0	1	nói_chung với giá mình book được so với tiện_nghi thì không còn gì để chê_trách .
-27	5	1	khách_sạn gần biển nên buổi tối chỉ cần rảnh là ra được biển chơi .
-28	5	2	tuy hơi xa trung_tâm thành_phố nhưng cũng không ảnh_hưởng gì nhiều vì đường_phố đà_nẵng khá rộng , thoáng , dễ đi .
-29	5	1	khách_sạn gần biển .
-30	1	1	cả 2 bạn lễ_tân đều rất nhiệt_tình và thân_thiện .
-31	4	0	máy_lạnh không được lạnh lắm
-32	0	1	tuyệt_vời trên tất_cả .
-33	0	1	một kỳ nghĩ thú_vị với tôi .
-34	1	1	nhân_viên thân_thiện nhiệt_tình .
-35	2	1	phòng_ốc sạch_sẽ .
-36	1	1	nhân_viên thì cực_kì ưng luôn , thân_thiện hết_mức .
-37	6	2	thang_máy hơi bé nhưng phù_hợp với khách_sạn .
-38	0	1	i like so much ! ! !
-39	0	1	cảm_ơn khách_sạn đã cho tôi một kỳ nghĩ thật tuyệt_vời
-40	0	1	giá rẻ và khá hợp_lý cho các nhóm du_lịch từ 4 người .
-41	1	0	nhân_viên lễ_tân hay không có_mặt ở quầy nên đôi_lúc cần việc thì hơi khó_khăn tí .
-42	0	1	khách_sạn trả_lời thắc_mắc qua mail rất nhanh và chu_đáo .
-43	0	1	cảm_ơn các bạn giúp gia_đình mình có một kỳ nghỉ trọn_vẹn .
-44	6	1	có thang_máy .
-45	6	1	cho thuê xe ngay tại_chỗ nghỉ .
-46	2	1	phòng sạch_sẽ .
-47	4	0	đèn hơi tối .
-48	0	0	thiết_kế không_gian hơi nóng .
-49	0	1	không_gian rộng_rãi .
-50	4	0	công_suất điều_hoà còn thấp .
-51	2	0	có muỗi trong phòng .
-52	2	1	phòng rộng_rãi .
-53	5	1	gần biển .
-54	4	0	chưa lắp quạt .
-55	4	0	điện hơi tối .
-56	0	1	giá_cả phải_chăng .
-57	0	1	lần sau quay lại hội_an sẽ tiếp_tục ở đây
-58	2	1	phòng có mùi thơm dịu mình rất thích .
-59	1	1	nhân_viên thân_thiện .
-60	5	1	từ khách_sạn ra tới biển không quá xa .
-61	1	1	phục_vụ khách_sạn rất tốt .
-62	4	1	giường rất êm .
-63	4	1	ghế sofa rất đặc_biệt .
-64	2	0	cửa khó mở và đóng
-65	5	2	gần siêu_thị tiện_lợi khá xa sân_bay
-66	1	0	thay_đổi như chong_chóng .
-67	2	1	cảnh nhìn ra bên ngoài thoáng_đãng .
-68	6	1	wifi vào tốt .
-69	0	1	tuyệt_vời .
-70	0	1	ko chê được gì luôn ý .
-71	0	1	đáng đồng_tiền .
-72	0	1	nhất_định sẽ ủng_hộ lần sau !
-73	5	2	gần chợ hàn , gần cầu rồng và cầu sông hàn , vỉ hè đi bộ thoáng mát , rộng_rãi không có nhà_thuốc_tây , đường 1 chiều , không đặt được uber - grab vì cấm đậu xe quá 3 phút , không gần cửa_hàng tiện_lợi
-74	0	1	xứng tên khách_sạn " happy day " .
-75	0	1	sẽ ghé lại ngày gần nhất .
-76	2	1	m đi cùng gđ 3 đêm tại đây , phòng deluxe view sông rất đẹp .
-77	1	1	m ấn_tượng với lễ_tân , phục_vụ và chú bảo_vệ , mọi ng rất thân_thiện và rất hỗ_trợ .
-78	5	2	vị_trí khách_sạn nhìn ra sông hàn , nằm giữa cầu rồng và cầu sông hàn .
-79	5	1	có_thể nói khách_sạn có vị_trí rất lý_tưởng .
-80	4	0	các thiết_bị trong phòng nên được kiểm_tra kĩ và sửa_chữa lại nếu cần .
-81	4	0	phòng mình không mở được tv , đèn ngủ chập_chờn lúc được lúc không , không rõ do dây lỏng hay như_thế_nào đó .
-82	4	0	máy_sấy tóc hơi yếu và khi rút key ra khỏi phòng thì ngắt_điện nên tủ_lạnh ko đc mát
-83	1	1	nhân_viên khách_sạn rất thân_thiện .
-84	0	1	sẽ sử_dụng tiếp dịch_vụ khi có dịp trở_lại đà_nẵng
-85	1	1	nhân_viên rất thân_thiện và nhiệt_tình .
-86	5	1	vị_trí tốt , tiện cho di_chuyển .
-87	1	1	nhân_viên thân_thiện luôn cười rất tươi , sẵn_sàng chia_sẻ thông_tin cần_thiết .
-88	1	1	đặc_biệt cảm_ơn các bạn cho 2vc checkin sớm free , vì đi tàu đã khá mệt_mỏi .
-89	0	1	lần sau có dịp lại c.i happyday .
-90	0	1	chúc các bn sức_khoẻ v luôn vui_vẻ ... không hẳn là không thích nhưng góp_ý nhỏ thôi .
-91	3	0	trong phòng nên set thêm trà v cfe free ( vì có trang_bị bình đun nước có sẵn ) .
-92	4	0	t2 là treo tv thấp xuống , chuyển tranh treo sang bên đầu giường trông sẽ hợp_lý hơn .
-93	1	1	khách_sạn đặt các tour tham_quan với hướng_dẫn_viên nhiệt_tình , am_hiểu các địa_danh , tiếng anh rất tốt .
-94	0	1	sẵn_sàng giới_thiệu cho bạn_bè .
-95	2	0	chú_ý vệ_sinh gầm giường cho sạch_sẽ hơn .
-96	5	1	vị_trí tuyệt_vời , thuận_tiện , gần chợ hàn , cầu rồng , cầu sông hàn .
-97	1	1	nhân_viên lịch_sự , nhiệt_tình và thân_thiện .
-98	1	1	ấn_tượng rất tốt về sự niềm_nở và chu_đáo .
-99	6	0	tiện_nghi ks chưa được phong_phú
-100	6	0	khách_sạn có cho thuê xe_máy nhưng thực_chất là liên_kết với nơi thuê xe_máy bên ngoài nhưng 2 bên lại ko thống_nhất giá_cả với nhau .
-101	6	0	tới lúc khách nhận xe thì chỗ thuê xe đôi_co , xin thêm tiền bo của khách thẳng_thừng .
-102	1	0	lên báo với nhân_viên ks thì nhân_viên này lại đổ thừa cho ông bảo_vệ già là ông này tự_ý lấy giá rẻ chứ k fải do ks muốn .
-103	1	0	ko chuyên_nghiệp chút nào .
-104	1	0	nhân_viên ks thì ok , nhưng lại liên_kết với nơi thuê xe ăn_nói chợ_búa sỗ_sàng xin tiền thêm của khách mà nói_chuyện chạc sa_sả luôn : ( ( (
-105	0	1	chúng_tôi đã có kỳ nghỉ tuyệt_vời 3 ngày 2 đêm tại happy_day .
-106	1	1	nhân_viên lễ_tân thân_thiện , nhiệt_tình chỉ_dẫn chỗ ăn_uống , các anh bảo_vệ cũng dễ_thương .
-107	0	1	sau vẫn chọn khách_sạn này nếu đi đà_nẵng
-108	1	1	gia_đình tôi đi nhiều người nên các bạn lễ_tân giúp chúng_tôi book tour đi bà nà và thuê xe đi hội_an với giá hợp lý.các bạn lễ_tân cũng như các anh bảo_vệ rất nhiệt_tình hướng_dẫn chỗ ăn_uống .
-109	0	1	cảm_thấy thoải_mái vì đã chọn khách_sạn này
-110	0	1	từ khách_sạn nhìn thấy được cầu rồng .
-111	1	1	nhân_viên lễ_tân của khách_sạn rất nhiệt_tình và lịch_sự .
-112	1	1	chỉ_dẫn tận_tình còn giúp mình mua chả .
-113	0	1	nếu có dịp quay lại đà_nẵng sẽ chọn happy_day .
-114	2	2	tuy đặt phòng tiêu_chuẩn không có cửa_sổ nhưng rộng_rãi , không bị bí_bách .
-115	0	1	sẽ quay lại vào kì nghỉ tiếp_theo .
-116	5	1	vị_trí đẹp , gần sông và gần các cây cầu .
-117	0	1	sẽ giới_thiệu bạn_bè đến khách_sạn này
-118	2	1	phòng sạch_sẽ .
-119	0	2	có_thể deal được giá thuê xe_máy với nhân_viên , 120 k / ngày .
-120	3	0	ăn sáng rất tệ .
-121	1	0	đáng_lẽ nhân_viên phải báo với tôi phòng tôi có hoặc ko có ăn sáng .
-122	3	0	và món ăn tôi gọi là phở , thịt bò hơi dai .
-123	5	1	chuyến công_tác của tôi kéo_dài 3 ngày , nhưng vào ngày cuối_cùng tôi đã lựa_chọn được khách_sạn của các bạn ngay tại trung_tâm để tiện cho việc đi_lại .
-124	0	1	tôi sẽ quay lại cho chuyến công_tác tới vào đầu tháng 12 này .
-125	1	1	nhân_viên thân_thiện , nhiệt_tình , tích_cực chào_đón và hỗ_trợ khách , đặc_biệt là chú bảo_vệ gầy_gầy cao cao .
-126	0	1	lần tới có_lẽ tôi vẫn sẽ chọn ở đây và thử trải_nghiệm nhiều dịch_vụ hơn .
-127	1	0	nhân_viên lễ_tân nam không được thân_thiện cho lắm .
-128	5	1	khách_sạn nằm ngay đường bạch_đằng khá đẹp .
-129	1	1	nhân_viên ở đây gọi taxi khá nhanh .
-130	3	1	bữa sáng ok .
-131	0	1	thích nhất buổi tối đi bộ dọc bờ sông hàn.sẽ trở_lại với gia_đình vào dịp hè năm sau không gì cả
-132	3	1	bữa sáng cũng được cải_thiện hơn so với lần trước rất nhiều
-133	1	1	tất_cả nhân_viên từ bảo_vệ , phục_vụ , lễ_tân đều nhiệt_tình , cởi_mở & thân_thiện .
-134	1	1	đặc_biệt , tôi rất quý & ấn_tượng với cháu nguyễn_t. thuý hằng-nv lễ_tân của ks happy day-160 bạch đằng-đà nẵng luôn chu_đáo , nhiệt_tình , cởi_mở & rất thân_thiện .
-135	0	1	rất tuyệt_vời , xin cảm_ơn .
-136	0	1	nhất_định , tôi sẽ quay lại ks happy day .
-137	1	1	nhân_viên nhiệt_tình , linh_động sử lý phản_hồi của khách .
-138	0	1	hai_lòng chất_lượng chuyến nghỉ_dưỡng
-139	0	1	sẽ quay lại sau nếu có cơ_hội .
-140	4	0	khăn tắm bẩn , ra gối bẩn .
-141	3	0	điểm_tâm sáng hoàn_toàn không đồng_ý .
-142	0	1	view nhìn ra sông hàn rất đẹp .
-143	1	1	nhân_viên khách_sạn rất thân_thiện .
-144	1	1	nhân_viên lễ_tân , đặc_biệt bảo_vệ cực_kì thân_thiện , dễ_thương .
-145	4	0	wc hơi nhỏ
-146	1	0	bảo_vệ không thân_thiện lắm .
-147	1	0	hỏi đường k buồn trả_lời .
-148	0	1	còn lại mọi thứ đều ok
-149	2	1	phòng sạch_sẽ .
-150	5	1	địa_điểm khách_sạn tốt .
-151	1	1	nhân_viên chu_đáo .
-152	0	0	buổi tối có tiếng_động hơi ồn_ào .
-153	5	1	vị_trí đẹp .
-154	1	1	nhân_viên nhiệt_tình vui_vẻ thân_thiện .
-155	4	0	ti_vi hình_ảnh và âm_thanh không rõ lắm .
-156	5	1	vị_trí của khách_sạn thuận_tiện .
-157	2	1	phòng sạch_sẽ .
-158	1	1	nhân_viên dễ_thương , nhiệt_tình .
-159	5	1	vị_trí tốt .
-160	3	1	ăn sáng ok .
-161	0	1	sẽ quay lại happy_day vao dịp hè
-162	4	0	mình vẫn nghĩ hanvico chưa đủ chuẩn để lắp ở khách_sạn 5 sao .
-163	3	0	bữa sáng hơi nghèo_nàn .
-164	0	2	- gần nhà_hàng hải_sản .
-165	0	0	- cửa ks có một cống nước xả thải xuống biển nên không tắm được .
-166	4	0	- sàn gỗ bị cong vêng bong tróc , - áp_lực nước yếu .
-167	1	1	cảm_ơn anh hoàng đã hỗ_trợ chúng_tôi trong suốt thời_gian ở tại khách_sạn .
-168	3	0	chúng_tôi phải đợi khá lâu để có được món trứng rán , và phải nhờ tới anh quản_lý nhà_hàng đứng gần đó hỗ_trợ mới có_thể có được một_vài món nóng .
-169	6	2	bảng giá giặt là_hơi cao , tuy_nhiên điều đó có_thể chấp_nhận được ở khách_sạn 4 sao .
-170	6	1	hệ_thống wifi rất tốt và ổn_định .
-171	0	0	điều đáng tiếc nhất xảy ra khi chúng_tôi trả phòng , dù đã có thông_báo về việc sẽ lấy hoá_đơn lúc chúng_tôi đi , nhưng dù thời_gian đợi khá lâu vẫn chưa xuất được hoá_đơn .
-172	0	1	nhìn_chung mọi thứ rất tốt cho một khách_sạn 4 sao ven biển .
-173	0	1	chúng_tôi nhất_định sẽ quay lại trong những đợt công_tác tiếp_theo .
-174	3	1	bữa sáng ngon .
-175	4	1	phòng tắm rộng .
-176	1	1	nhân_viên phục_vụ tốt , được tiếp_đón rất chu_đáo và cẩn_thận .
-177	6	1	bể_bơi lớn và view rất đẹp .
-178	6	1	phòng ăn rộng và sáng_sủa .
-179	4	0	phòng nên có thêm gương .
-180	6	0	đại_sảnh tầng 1 nên có thêm đồng_hồ .
-181	0	1	cảm_ơn các bạn , đây là một trong những khách_sạn chúng_tôi thích nhất từ trước tới nay
-182	0	1	view nhìn ra biển đẹp .
-183	6	1	bể_bơi đẹp .
-184	5	1	gần biển .
-185	1	1	nhân_viên lịch_sự .
-186	1	0	nhân_viên chưa thực_sự quan_tâm tới khách .
-187	0	1	rất hài_lòng !
-188	4	0	bồn_tắm nhỏ
-189	1	1	nhân_viên thân_thiện , nhiệt_tình .
-190	5	1	hostel nằm gần khu hồ nghinh , mỹ_khê , cách bãi biển độ 5-6 phút đi bộ , rất thuận_tiện .
-191	4	2	trong phòng có một toilettes có 2 lavabo và hai w.c.
-192	0	1	nhà_tắm ở tầng trệt rất rộng_rãi và có lối đi thẳng từ cổng vào , thuận_tiện cho khách vừa đi tắm biển về .
-193	3	1	dưới tầng trệt có bếp , buổi sáng phục_vụ đồ_ăn sáng bao_gồm trong tiền phòng ( mình không ăn nên không biết chất_lượng thế_nào ) .
-194	3	1	ngoài_ra cũng có để sẵn đồ_ăn vặt , ai về muộn đói quá có_thể lấy ăn rồi trả tiền .
-195	1	1	các bạn chủ thân_thiện .
-196	2	0	phòng hơi chật .
-197	2	0	nếu có nhiều khách trong phòng cùng một lúc sẽ không_thể đi_lại hay dọn đồ được .
-198	2	0	ngoài_ra , có cảm_giác ở trong giường kéo rèm che thì hơi bí và hơi có mùi gỗ cũ cũ .
-199	3	0	đồ_ăn vặt để sẵn trong bếp để bán cho khách giá hơi mắc ( 20.000 vnd / hộp mỳ , 30.000 vnd / gói bánh ) .
-200	0	0	thỉnh_thoảng mình không biết bạn nào là chủ bạn nào là khách nên đi kiếm chủ để hỏi gì đó hơi mệt .
-201	0	0	mình thỉnh_thoảng lại được các bạn khách hỏi gì đó vì tưởng mình là chủ , giả_sử mình mà không trung_thực cứ cầm bừa tiền của khách là các bạn chủ thiệt rồi : )
-202	1	1	nhân_viên helpful .
-203	0	1	sảnh chờ trang_trí đẹp_mắt và mát .
-204	4	1	nhà_tắm và phòng_vệ sinh sạch , thuận_tiện .
-205	1	0	nhân_viên hơi awkward và có_vẻ thiếu kinh_nghiệm .
-206	1	2	họ rất helpful nhưng lẽ_ra nếu thoải_mái và outgoing với khách hơn thì sẽ tốt hơn .
-207	3	0	mình đi mùa mưa nên đồ_ăn sáng khá lạnh_lẽo .
-208	5	1	hostel ở gần biển , đi bộ tầm 5 phút là tới .
-209	1	1	đặc_biệt là nhân_viên và chủ thân_thiện , lịch_sự , tạo cảm_giác thoải_mái .
-210	0	1	tôi khá hài_lòng với chuyến đi lần này .
-211	0	1	sẽ quay lại và dẫn bạn_bè đi cùng vào lần sau .
-212	1	1	nhân_viên và boss đều rất nhiệt_tình và thân_thiện .
-213	5	1	gần biển chỉ cần đi bộ là ra bãi biển nước trong xanh tuyệt đẹp .
-214	2	1	phòng ở khá tiện_nghi .
-215	4	1	mình đã thuê một phòng đôi với khá đủ tiện_nghi từ bếp , lò nướng , tủ_lạnh ấm đun , ... nói_chung khá đủ cho một người thích tự_lập như mình .
-216	1	1	nhân_viên thoải_mái , nhiệt_tình .
-217	4	1	không_gian bếp chung ấm_cúng .
-218	0	0	1 điều mình thấy không thoải_mái .
-219	6	0	khi nhận lại đồ mình bị thiếu khá nhiều đô .
-220	1	1	nhân_viên vui_vẻ .. nhanh_nhẹn .
-221	1	1	nhiệt_tình .
-222	4	0	giường và chăn ga gối hơi bẩn .
-223	4	0	phòng tắm đọng nước .
-224	4	0	thoát nước kém lên bất_tiện .
-225	5	1	gần biển mỹ khê là tốt !
-226	2	0	mùi của phòng máy_lạnh do ko được thoáng .
-227	5	1	hostel gần biển , di_chuyển thuận_tiện .
-228	1	1	điều thích nhất là nhân_viên thân_thiện , nhiệt_tình .
-229	0	1	nhìn_chung rất đáng_giá tiền so với các khách_sạn cùng giá khác .
-230	5	0	vị_trí hơi xa biển và các khu ăn_uống trung_tâm
-231	0	1	xung_quanh khách_sạn nhiều nhà_hàng hàn_quốc .
-232	6	1	chúng_tôi được tặng gói xông_hơi kiểu hàn nên đã sử_dụng ngay hôm ấy , rất thích_thú & dễ_chịu , đặc_biệt thích_hợp sau 1 ngày vận_động nhiều .
-233	3	1	bữa sáng khá phong_phú .
-234	3	1	bữa sáng ngon .
-235	4	1	đi chơi sau 1 ngày dài năm giường rất thoải_mái
-236	1	1	nhân_viên thân_thiện .
-237	3	1	buffet sáng rất ngon .
-238	0	1	mọi thứ trên cả mong_đợi .
-239	4	0	gối nằm ngủ hơi cao ,
-240	1	0	nhân_viên lễ_tân chưa nhiệt_tình chu_đáo , cần hỏi kỹ khi bạn muốn sử_dụng các dịch_vụ tour du_lịch .
-241	5	2	đường đi vào khách_sạn mà tự đi bằng xe_máy thì hơi khó tìm😉 , nếu đi bằng taxi thì dễ tìm hơn🤗
-242	5	1	gần biển .
-243	2	1	giá phòng hợp_lý .
-244	1	1	lễ_tân khách_sạn nhiệt_tình tư_vấn các điểm ăn_uống và vui_chơi .
-245	5	1	near beach .
-246	2	1	cheap price .
-247	1	1	hotel ' s reception consult to me about attraction and restaurant location .
-248	2	0	phòng đôi không có cửa_sổ .
-249	4	0	điều_hoà hơi nóng .
-250	0	0	từ sáng khoảng 7-8 h đến trưa chiều hay nghe thấy tiếng sửa_chữa ko biết là do phòng đang sửa_chữa hay do xưởng gỗ kế bên .
-251	2	0	tụi mình đi miết nên chỉ khó_chịu khi trưa về nghỉ_ngơi mà nghe tiếng khá là khó ngủ .
-252	5	2	khu_vực còn hơi mới , gần biển nhưng hơi xa trung_tâm 1 tí nhưng đi xe_máy thì thoải_mái .
-253	1	1	lễ_tân đứng_tuổi lịch_sự nhiệt_tình .
-254	1	0	lễ_tân trẻ tuổi ban_đầu không cho khách đặt đồ gửi trong phòng gửi đồ , lý_do là sợ nhầm_lẫn với đồ của khách khác trong phòng , lý_do hết_sức vô_lý , phải đến khi khách ko đồng_ý để ngoài góc sảnh vì có máy_ảnh lễ_tân mới mở phòng gửi đồ .
-255	4	0	điểm trừ là không có máy_sấy tóc trong phòng .
-256	3	0	khách_sạn chỉ phục_vụ đồ_ăn thức uống vào ban_ngày , nhưng đa_phần nhu_cầu ăn_uống của khách_hàng tại khách_sạn chủ_yếu vào ban_đêm .
-257	1	1	cách xử_sự như_vậy là khá ok , có_lẽ đây chỉ lỗi vô_tình do bạn trực lễ_tân không biết , còn lại thì thái_độ của bạn nhân_viên này rất tốt .
-258	1	1	các bạn tiếp_tân và bác bảo_vệ rất dễ_thương và nhiệt_tình .
-259	0	1	khách_sạn giá_cả tính đúng .
-260	1	1	nhân_viên dễ_thương .
-261	4	1	nội_thất chắc_chắn .
-262	4	0	mỗi_tội k có máy_sấy để sấy_tóc sau tắm .
-263	5	1	gần biển đi bộ có xíu là đến_nơi
-264	1	1	bác bảo_vệ rất nhiệt_tình và thân_thiện
-265	5	1	địa_điểm khá gần các khu trung_tâm .
-266	1	1	nhân_viên lễ_tân lịch_sự nhã_nhặn .
-267	4	0	khăn tắm hơi cũ và thô_ráp .
-268	1	1	bác bảo_vệ thân_thiện .
-269	1	1	chị nhân_viên vui_vẻ
-270	0	1	giá_cả hợp_lý
-271	1	0	nhân_viên có_thể niềm_nở hơn , vui_vẻ hơn khi giao_tiếp với khách_hàng thì sẽ tốt hơn
-272	2	1	phòng sạch_sẽ .
-273	4	1	đồ đều rất mới
-274	0	0	dù đặt loại phòng nào đi_nữa thì thiết_nghĩ không nên có sự phân_biệt về giá_cả các loại phòng , không phải là phòng rẻ thì không có ăn sáng ( dù ở thời_điểm tôi đặt thì các phòng đắt hơn đã hết , tôi không có sự lựa_chọn khác )
-275	2	0	phòng hơi nhỏ và cách_âm không tốt .
-276	2	0	có_thể nghe tiếng_nói chuyện và đóng_cửa ở bên ngoài rất to .
-277	4	0	khi tắm nước không thoát được và tràn rất nhiều ra bên ngoài cửa nhà tắm .
-278	1	1	các bạn nhân_viên rất nhiệt_tình tư_vấn cũng như giúp_đỡ khách .
-279	0	1	thiết_kế bắt_mắt , dễ_thương .
-280	1	1	nhân_viên nhiệt_tình và thân_thiện .
-281	2	0	view từ cửa_sổ của phòng sau hơi tệ ( phong 102 ) .
-282	2	0	nếu_như sơn màu và trang_trí thêm sẽ tuyệt hơn .
-283	2	0	không như quảng_cáo , 1 lầu chỉ được 2 phòng nhìn ra sông hàn , còn lại gần như không thấy hoặc view cực_kỳ tệ ( khác với ghi trên booking ) .
-284	3	0	bữa ăn sáng rất chán , đồ_ăn không ngon .
-285	1	1	khách_sạn đã để lại ấn_tượng khá tốt cho mình về sự chuyên_nghiệp này .
-286	0	1	mình còn được discount 10% cho lần sau .
-287	0	1	chắc_chắn sẽ quay lại art hotel trong ngày gần nhất !
-288	1	0	- nhân_viên nam thấy khách xách hành_lý không đỡ phụ .
-289	1	0	còn tiếp_tân nhìn không quan_tâm khách cho lắm , thờ_ơ với chưa chuyên_nghiệp .
-290	1	0	dù đã có đưa phiếu số phòng này kia rồi mà_còn có sự nhầm_lẫn như_vậy .
-291	1	0	- nhân_viên nhìn chằm_chằm vào khách không cần quan_tâm khách cần giúp hay nhờ gì .
-292	0	0	- đã vậy sàn gỗ thì lạch_bạch .
-293	0	0	dở hở lum la .
-294	0	0	không có cảm_giác an_toàn nên cũng k dám đi mạnh 😔😔 - hình_ảnh chụp khá mới .
-295	0	0	- sẽ không quay lại lần nào nữa .
-296	2	1	trang_trí nhìn hài_hoà đẹp_mắt .
-297	1	1	nhân_viên nhiệt_tình chu_đáo .
-298	3	1	bữa sáng ổn .
-299	5	1	vị_trí khách_sạn đẹp có_thể đi_lại giữa thành_phố với biển đều tiện_lợi .
-300	0	1	lần sau quay lại đn sẽ vẫn ở đây : *
-301	1	1	nhân_viên dễ_thương thân_thiện .
-302	1	0	vì khách_sạn mới , đội_ngũ receptionist cũng mới nên chưa thật_sự chuyên_nghiệp .
-303	4	1	nội_thất ok !
-304	4	0	trang_thiết_bị chưa tiện_nghi
-305	4	1	giường thoải_mái .
-306	4	1	nội_thất đẹp .
-307	1	1	nhân_viên nhiệt_tình
-308	1	1	rất thích sự nhiệt_tình của nhân_viên .
-309	0	1	sẽ quay lại
-310	1	1	nhaan viên cực_kỳ nhiệt_tình .
-311	0	1	nếu có cơ_hội quay lạ đà_nẵng chắc_chắn mình quay lại khách_sạn này và giới_thiệu cho bạn_bè .
-312	5	1	vị_trí thuận_tiện , đẹp .
-313	1	1	nhân_viên lịch_sự , ân_cần .
-314	0	1	tôi sẽ đến ks lần sau nếu có dịp .
-315	4	0	nước nóng bị yếu
-316	0	1	khách_sạn có nhiều góc trang_trí đẹp , dễ_thương .
-317	0	0	không xứng_đáng với mức 5 * .
-318	4	0	khăn tắm rách_bươm ( 5/6 cái đều rách ) .
-319	1	0	nhân_viên khó_chịu , check in hay check out đều rất chậm_chạp , mất thời_gian .
-320	3	0	bữa sáng nghèo_nàn , ít món
-321	0	1	- resort được thiết_kế rất đẹp , mọi chi_tiết đều xinh_xắn đáng iu .
-322	3	1	bữa sáng phong_phú .
-323	6	1	hai bể_bơi ở tầng 1 và tầng 4 đem lại lựa_chọn đa_dạng .
-324	1	1	nhân_viên thân_thiện , nhiệt_tình , hữu_ích .
-325	0	0	khuôn_viên nhỏ chưa tương_xứng với resport .
-326	1	2	check in và check out còn hơi lâu và rườm_rà .
-327	0	0	như đoàn mình ăn trưa xong phải chờ tương_đối lâu để check in khách_sạn .
-328	4	0	giường đôi 1m6 mà nhà mình có thêm trẻ_em nên hơi chật
-329	6	1	rất thích bể sục của khách_sạn .
-330	3	0	nên có thêm nhiều loại nước uống hoa_quả hơn cho buổi buffet sáng
-331	1	1	gia_đình và nhân_viên rất thân_thiện .
-332	0	1	tôi cảm_thấy đây là lần đầu_tiên tôi thật_sự hài_lòng khi lựa_chọn ks minh_toàn trên booking.com .
-333	0	1	tôi sẽ chọn ks_minh_toàn_galaxy trong chuyến ctac sắp tới vào ngày 22/7/2016 tiếp_theo tại đà_nẵng .
-334	1	0	còn gây khó_khăn cho khách , gọi điện_thoại và trả_lời điện_thoại 1 cách cứng nhắt , không linh_hoạt trong xử_lý tình_huống .
-335	1	0	giao_tiếp còn tẻ_nhạt .
-336	0	0	cảm_giác không thoải_mái
-337	0	1	chuẩn với tiêu_chí 4 * .
-338	1	1	nhân_viên thân_thiện
-339	1	0	lễ_tân không chuyên_nghiệp , sử_dụng 2 ngôn_ngữ với khách
-340	2	1	phòng đẹp và mới .
-341	0	1	view đẹp .
-342	1	1	dịch_vụ tốt chuyên_nghiệp , nhân_viên nhiệt_tình thân_thiện .
-343	1	1	các nhân_viên kinh_doanh không ngại support cho phù_hợp với nhu_cầu của khách_hàng mặc_dù mình đã thay_đổi lịch ngày_giờ đến 2 lần .
-344	1	2	thái_độ phục_vụ của nhân_viên !
-345	2	0	nhiều phòng có cửa thông sang phòng bên cạnh .
-346	2	0	điều này là rất tệ khi kỳ nghỉ là lúc cần không_gian riêng_tư , thoải_mái ... quả_thực cảm_thấy rất không thoải_mái vì điều này
-347	3	1	rất thích bữa sáng ở đây rất ngon .
-348	5	1	vị_trí tốt thuận_tiện đi_lại .
-349	1	1	nhân_viên nhiệt_tình thân_thiện .
-350	6	1	khu_vực hồ bơi có view rất đẹp với thời_tiết khá mát_mẻ .
-351	0	1	mình rất thích cảm_giác ngồi trên sân_thượng vào buổi chiều mát_mẻ với một bình trà ấm_áp .
-352	0	1	năm sau chắc_chắn sẽ quay lại
-353	3	0	đồ_ăn sáng chưa phong_phú .
-354	0	1	khách_sạn mới xây .
-355	0	1	view biển đẹp .
-356	1	1	nhân_viên nhiệt_tình , lịch_sự chu_đáo .
-357	3	1	ăn sáng ngon .
-358	0	1	đáng_giá tiền !
-359	0	1	sẽ lưu_trú vào kỳ nghỉ tới .
-360	1	1	nhân_viên thân_thiện , hỗ_trợ nhiệt_tình , chuyên_nghiệp .
-361	4	0	cuộn giấy_vệ_sinh hơi bé ( đặc biết đối_với phòng gia_đình 4 người ) , và chỉ có 1 cuộn .
-362	1	0	gọi lễ_tân xin thêm nhưng phải chờ hơi lâu .
-363	3	0	ăn sáng ít món , không có trái_cây tiếp_đón
-364	0	1	tất_cả đều tốt .
-365	0	1	khách_sạn còn mới .
-366	1	1	nhân_viên phục_vụ rất nhiệt_tình và vui_vẻ .
-367	6	0	mạng internet thi_thoảng hơi chậm và chập_chờn
-368	0	1	đánh_giá chung : rất tốt , sẽ quay lại vào những lần sau : )
-369	4	0	tivi trong phòng ko xem đc do đường truyền kém .
-370	1	0	khách báo yêu_cầu lễ_tân báo_thức nhưng ko gọi đến khi khách hỏi thì chỉ nói em quên .
-371	2	0	trần nhà bị thấm từ hồ bơi nằm ở bên trên nên không_gian trong phòng nhìn bên trên không được đẹp .
-372	0	0	nhân_viên hỏi về việc thanh_toán tiền trước khi đến ở khách_sạn trong khi trên trang booking.com thì lại để thông_tin là sẽ thanh_toán khi đến ở .
-373	0	1	nhưng cơ_bản là gia_đình tôi đã hài_lòng khi lưu_trú tại đây .
-374	6	1	hồ bơi khá lý_tưởng , nhưng đi vào mùa lạnh nên không_thể tận_hưởng được .
-375	6	1	view hồ bơi khá thoáng có_thể thấy được cầu rồng và nhiều cảnh khác .
-376	1	2	nhân_viên sảnh ok nhưng vui_vẻ hơn thì ok hơn .
-377	1	1	nhân_viên lễ_tân , phục_vụ nhiệt_tình chu_đáo .
-378	6	1	hồ bơi rộng_rãi .
-379	2	0	phòng trẻ_em bé quá mức
-380	1	1	nhân_viên phục_vụ lịch_sự , ân_cần .
-381	4	0	khoá hơi khó mở .
-382	4	0	tủ_lạnh mỗi lần restart thì có tiếng ồn rất lớn , phải chỉnh lại về 0 thì mới có_thể ngủ được .
-383	3	0	bữa sáng rất rất ít món so với những khách_sạn ngang giá khác .
-384	1	1	nhân_viên thân thiên và nhiệt_tình .
-385	4	0	phòng tắm và phòng_vệ sinh hơi bất_tiện vì cửa phòng lắp không được hợp_lý .
-386	2	0	sàn phòng trải thảm nhưng lại không hút bụi nên nhìn vào thấy hơi bẩn .
-387	1	1	nhân_viên hết_sức tốt_bụng và nhiệt_tình .
-388	6	1	khách_sạn cho thuê phương_tiện di_chuyển rất tốt .
-389	4	0	buồng tắm bằng kính thiết_kế có_vẻ hơi nhỏ không thuận tay .
-390	4	0	khách_sạn cho khách sử_dụng chăn bông hơi hơi nóng cho thời_tiết hè và thu khô nóng
-391	0	0	phần tính thêm phụ_thu nên rõ_ràng từ đầu .
-392	0	0	thành_ra mình vừa tốn tiền phụ_thu , vừa tốn tiền book khách_sạn khác .
-393	1	0	nếu trả_lời từ đầu , mình ko mất tiền phụ_thu , vì sẽ book ks khác .
-394	0	1	mình rất hài_lòng về mọi thứ ở đây .
-395	0	1	rất đáng để chọn_lựa khi đến đà_nẵng !
-396	0	1	nhất_định sẽ quay lại lần 2
-397	5	1	địa_điểm : khách_sạn rất gần sân_bay , nên việc di_chuyển đến sân_bay rất thuận_tiện .
-398	5	1	từ khách_sạn đi ra trung_tâm thành_phố cũng khá gần và dễ_dàng !
-399	2	1	phòng : phòng rất yên_tĩnh , về khoản này mình rất hài_lòng .
-400	4	0	có 1 vấn_đề nhỏ là giường trong phòng hơi nhỏ so với hạng phòng double mình book .
-401	1	1	nhân_viên : nhân_viên rất rất thân_thiện , nhiệt_tình và cởi_mở .
-402	1	0	xong nên cải_thiện khả_năng giao_tiếp bằng tiếng anh để có_thể làm chất_lượng dịch_vụ tốt hơn : )
-403	0	2	mình book phòng double nhưng khách_sạn không sắp_xếp được do khách cũ ở thêm nên bị chuyển sang phòng twin 2 giường .
-404	2	1	tuy_nhiên phòng rất rộng và đẹp nên không vấn_đề lắm .
-405	3	0	tuy_nhiên bữa sáng buffet rất sơ_sài 9h mới kết_thúc ăn sáng nhưng 8 rưỡi khách xuống đã không còn gì có_thể ăn được nữa rồi nên chúng_tôi đành đi ăn sáng ở ngoài .
-406	3	0	buffet sáng sơ_sài và kết_thúc sớm trước giờ ghi trên phiếu
-407	1	1	nhân_viên nhiệt_tình .
-408	0	1	nói_chung mình rất hài_lòng .
-409	0	1	nhất_định sẽ quay lại vào lần sau .
-410	3	0	mọi cái đều rất tốt , nếu khách_sạn có thêm nhiều món ăn sáng hơn_nữa thì sẽ tuyệt hơn đấy .
-411	3	1	bữa sáng phù_hợp .
-412	3	0	bữa sáng còn sơ_sài .
-413	2	0	phòng nhỏ
-414	2	1	thiết_kế phòng đẹp , ban_công thoáng .
-415	3	0	ăn rất chán huhu
-416	1	1	nhân_viên nhiệt_tình .
-417	3	1	bữa sáng ngon .
-418	4	0	điều_hoà chậm làm mát và k mát lắm , phải dùng thêm quạt
-419	4	0	: - ) máy lạnh và tivi thật sự không được tốt
-420	0	1	yên_tĩnh tôi đặt phòng đơn 1 giường nhưng cung_cấp cho một_mình tôi 2 chiếc giường đơn .
-421	4	0	điều_hoà không mát cho lắm .
-422	0	0	không nói rõ cho khách nước suối cái nào tính tiền , cái nào miễn_phí .
-423	1	1	nhân_viên vui_vẻ , nhiệt_tình .
-424	0	1	khách_sạn giá tốt .
-425	0	1	thích_hợp cho các bạn trẻ đến du_lịch , nghỉ_mát .
-426	1	2	ks cần cải_thiện để phục_vụ khách dc tốt hơn
-427	2	1	quá hợp_lý với mức giá phòng .
-428	5	1	gần biển , thuận_tiện đi tới các địa_điểm .
-429	1	1	nhân_viên khách_sạn nhiệt_tình , dễ mến .
-430	0	1	tuy_nhiên điều đó không quá ảnh_hưởng , nếu được khắc_phục sẽ hoàn_hảo hơn !
-431	1	1	nhân_viên thân_thiện , nhiệt_tình .
-432	2	1	phòng sạch .
-433	0	1	mọi thứ đều tốt .
-434	1	1	các bạn rất thân_thiện , dễ_thương .
-435	1	1	cười vô_cùng đáng yêu nữa chứ .
-436	1	1	mình nhận phòng sớm mà trả phòng siêu trễ mà bạn cũng đồng_ý và vẫn cười rất tươi .
-437	0	1	chắc_chắn sẽ quay lại .
-438	0	1	không có gì để chê cả
-439	5	1	rất tiện nếu ăn hải sản khu bờ biển , gần khu tắm bùn galina và asia park .
-440	1	1	mình báo nv ks và đã được khắc phục nhanh chóng .
-441	4	0	tuy_nhiên có 1 khăn mặt mới thay cho phòng đôi chưa dùng đã bẩn , vết đen trên khăn khiến mình ko dám dùng .
-442	4	0	ksan cần kiểm tra đồ mới thay trước khi đem thay
-443	0	1	mọi thứ ở đây đều tuyệt_vời .
-444	5	1	gần biển , gần trung_tâm , đi đâu và làm gì cũng tiện_lợi .
-445	1	1	nhân_viên thân_thiện , nhiệt_tình , chu_đáo , dọn_dẹp phòng hàng ngày 👍 nếu quay trở_lại đà_nẵng thì đây vẫn sẽ là sự lựa_chọn của mình .
-446	0	1	giá_cả homie là lựa_chọn phù_hợp khi ở ngắn ngày .
-447	0	0	thời_điểm gia_đình đi đang có công_trình xây_dựng bên cạnh nên ồn_ào .
-448	0	1	giá_cả quá rẻ so với chất_lượng
-449	5	1	vị_trí đi_lại thuận_tiện .
-450	5	1	vừa gần biển vừa không xa trung_tâm
-451	2	0	nên cách_âm tốt hơn một_chút .
-452	1	1	nhân_viên thân_thiện , thái_độ nhiệt_tình .
-453	4	0	cần chỉnh_sửa lại những thiết_bị đã lỗi hay hỏng như rèm cửa , vòi_hoa_sen ...
-454	2	1	phòng sạch_sẽ .
-455	4	1	cung_cấp bổ_sung các vật_dụng trong phòng tắm hàng ngày .
-456	1	1	nhân_viên nhẹ_nhàng , thân_thiện .
-457	2	1	phòng nghỉ sạch_sẽ .
-458	1	1	nhân_viên vui_vẻ thái_độ phục vục nhiệt_tình , thân_thiện .
-459	4	0	chỉ có_điều là phòng mình bị rò nước hình_như nước từ tủ_lạnh chảy ra , nên hơi bẩn mỗi lần đi ra ngoài lâu về .
-460	0	1	thoải mái , tiện nghi .
-461	4	0	nên thay đồ mới trong phòng mỗi ngày khi khách đã ra ngoài .
-462	1	1	các bạn nhân_viên rất thân_thiện .
-463	4	1	giường ngủ rất thoải_mái , nhân_viên thân_thiện , tốt_bụng .
-464	4	0	nước từ vòi_hoa_sen chảy ra còn yếu , bất_tiện khi sử_dụng
-465	2	1	phòng mới .
-466	1	1	thái_độ nhân_viên nhân_viên thân_thiện và nhiệt_tình
-467	1	1	nhân_viên thân thiện nhiệt tình .
-468	6	0	bất_tiện khi đi thang bộ từ lầu 5 lên lầu 6 .
-469	1	1	lễ_tân ở khách_sạn này rất nhiệt_tình và đáng yêu .
-470	4	0	nhất_là mr. lân nên có máy_sấy trong phòng
-471	1	1	nhân_viên thân_thiện .
-472	2	0	cách_âm không tốt , lúc tối khuya vẫn nghe tiếng ồn từ các phòng trên lầu .
-473	5	1	đi vào trung_tâm gần .
-474	1	1	những nụ cười ấm_áp của mọi người tại minh_house .
-475	1	1	có cơ_hội quay lại mình sẽ chọn minhhouse
-476	1	1	phục_vụ dễ_thương , nhiệt_tình và niềm_nở .
-477	4	1	phòng đầy_đủ tiện_nghi và thoải_mái .
-478	0	1	chuyến bay của mình là buổi tối , sáng trả phòng , ký_gửi hành ký miễn_phí , chiều_tối về lại khách_sạn được cho sử_dụng phòng_vệ sinh thoải_mái để tắm_rửa sạch_sẽ trước khi lên máy_bay về sài_gòn .
-479	0	1	tuyệt_vời ! ! !
-480	6	0	wifi không tốt mặc_dù đã đổi phòng
-481	1	0	bà chủ nhà_nghỉ có_vẻ hơi khó_tính .
-482	1	1	nhân_viên nhiệt_tình .
-483	1	1	dù_sao nhân_viên ksan cũng nhiệt_tình và nhanh_chóng đổi phòng khác cho tôi .
-484	0	1	biển đà_nẵng sạch và rât đẹp , con_người thân_thiện .
-485	0	1	có điều_kiện chúng_tôi sẽ quay lại .
-486	1	0	nhân_viên phục_vụ quá tệ .
-487	1	0	khách gọi điện nhắc nhiều lần nhưng vẫn k gửi .
-488	0	0	tóm_lại tất_cả đều tệ .
-489	0	0	không nên ở khách_sạn này dù_cho giá có rẻ .
-490	0	1	sang năm sẽ đặt tiếp ở đây : ) ko có j để phàn_nàn
-491	0	1	chúng_tôi hài_lòng .
-492	3	0	bữa sáng chưa thực_sự ổn lắm .
-493	3	0	nhà mình 2 ngày 7.30 lên ăn sáng , đồ_ăn đã hết .
-494	2	0	cửa_sổ các phòng nên có tấm lan_can chắn .
-495	2	0	vì gia_đình đi chơi bao giở cũng có trẻ_em , khách_sạn để phòng như_thế có tỷ_lệ rủi_ro rất cao .
-496	0	1	tôi sẽ trở_lại .
-497	3	0	bữa ăn sáng không ngon như các khách_sạn 4 * * * * khác
-498	1	1	touch là chạm , chạm đến trái_tim ^ ^ anh_chị chủ siêu dễ_thương , thân_thiện .
-499	0	1	tôi cực_kì thích nơi này và hơn_nữa anh_chị rất nhiệt_tình đón_tiếp khách chu_đáo , có thời_gian tôi sẽ quay lại nhiều lần nữa
-500	1	1	host cực_kì cute .
-501	0	1	sẽ giới_thiệu cho bạn_bè ghé thăm
-502	1	1	host super thân_thiện .
-503	0	1	lần tới đến đn mình sẽ lại tới touch < 3
-504	1	1	ông_bà chủ quá thân_thiện !
-505	0	1	nên cảnh_giác vì có_thể bị nghiện mà chả muốn về ! ^ ^
-506	5	2	- khách_sạn này chỉ gần mỗi biển , cách khá xa khu trung_tâm và các địa_điểm nổi_tiếng khác .
-507	4	0	- hệ_thống nước có vấn_đề , có 1 phòng thì máy_nước nóng không hoạt_động , có ngày thì họ nói là mưa_bão nên hỏng hệ_thống nước khiến mình không tắm được trong 2 ngày .
-508	4	0	- ở phòng của mình , không_thể điều_chỉnh được nhiệt_độ điều_hoà .
-509	2	1	phòng_ốc gọn_gàng và rất thoải_mái .
-510	2	1	do check in sớm nên được giới_thiệu một phòng nhỏ hơn nhưng rất tiện_nghi .
-511	5	1	vị_trí đẹp , ăn_uống tiện_lợi , gần tạp_hoá và siêu_thị mini , gần bãi biển .
-512	6	0	chưa có thang_máy
-513	1	1	chị lễ_tân thân_thiện .
-514	5	1	gần bãi_tắm phạm văn đồng sạch_đẹp .
-515	6	0	đi_lại bất_tiện
-516	4	1	giường đệm thoải_mái rất êm .
-517	4	0	bàn_chải quá cứng , không_thể sử_dụng được .
-518	4	0	cần chú_ý vệ_sinh , côn_trùng , bàn_chải kem đánh răng cần nâng_cấp hơn .
-519	4	0	ti_vi không có kênh giải_trí .
-520	1	1	nhân_viên thân thiên , nhịêt tình .
-521	1	1	có bạn lễ_tân tên ly rất hay cười , chu_đáo với khách_hàng , còn đưa mình đi mua thuốc lúc cần .
-522	1	2	nhân_viên phục_vụ còn 1 thiếu_sót là khi mang đồ_ăn cho khach , ngón tay chạm vào đồ_ăn ( cơm , canh )
-523	1	1	tuy không phải khách_sạn tốt nhất nhưng thái_độ phục_vụ làm mình rất ấn_tượng và để lại dấu_ấn tốt ở đây .
-524	0	0	view không đẹp lắm
-525	0	1	nói_chung mọi thứ tuyệt vs mức giá đó .
-526	2	1	phòng nghỉ thoải_mái , yên_tĩnh .
-527	2	0	dọn phòng hàng ngày còn sơ_sài và chưa được sạch_sẽ lắm .
-528	0	0	k bao h quay lại
-529	2	1	có dọn phòng hàng ngày .
-530	1	1	nhân_viên dọn_dẹp và lễ_tân nhiệt_tình .
-531	5	1	vị_trí gần biển .
-532	2	0	phòng hơi nhỏ .
-533	0	0	khách_sạn có tầm nhìn ra không được đẹp lắm .
-534	4	0	nước chảy yếu ở vòi_sen .
-535	3	0	buổi sáng hơi ít món .
-536	2	0	phòng hơi nhỏ
-537	0	1	không có gì không thích
-538	1	1	nhân_viên phục_vụ nhiệt_tình .
-539	2	1	phòng sạch_sẽ được dọn mỗi ngày .
-540	2	1	cơ_mà như_thế cũng là phù_hợp với giá phòng nên ko vấn_đề .
-541	1	1	chị chủ và các chị nhân_viên nhiệt_tình , thân_thiện .
-542	2	1	phòng gọn_gàng , dọn_dẹp sạch_sẽ .
-543	5	1	gần bãi biển , đi bộ hết 2 phút 59 giây .
-544	0	1	nói_chung là mọi thứ ok .
-545	1	1	nhân_viên dễ_tính .
-546	1	1	tư_vấn nhiệt_tình .
-547	2	1	phòng sạch_sẽ .
-548	2	0	đi bộ ra biển mất khoảng 7p ko có thang_máy hơi xa khu trung_tâm ( đi bộ ra đường nguyễn_văn_thoại mất khoảng 10p phòng_bị khách_sạn bên cạnh xây cao che mất tầm nhìn ra biển
-549	1	1	chị chủ dễ_thương và nhiệt_tình lắm !
-550	4	0	hệ_thống nước chưa được tốt lắm
-551	5	1	gần các điểm du lịch .
-552	0	1	ăn uống xung_quanh rẻ .
-553	1	1	nhân_viên dễ thương .
-554	6	1	wifi hơi yếu
-555	2	0	ngày cuối_cùng có muỗi trong phòng .
-556	2	1	tổng_thể ổn , phù_hợp với giá tiền phòng .
-557	0	0	không có chỗ phơi quần_áo
-558	1	1	nhân_viên phục_vụ tốt , chu_đáo .
-559	0	1	giá_cả ok .
-560	1	1	mình đến sân_bay đã gần 12h đêm nhưng bên khách_sạn rất nhiệt_tình .
-561	0	1	nói_chung là mình rất hài_lòng
-562	1	1	thái_độ phục_vụ của nhân_viên rất nhiệt_tình và chu_đáo .
-563	6	0	khách sản có nhiều tầng nên lắp thang_máy
-564	5	2	đi bộ ra gần biển nhưng hơi xa bãi_tắm
-565	1	1	cô chủ thân_thiện .
-566	3	1	đồ_ăn trong khách_sạn rẻ
-567	0	1	mọi thứ rất ok với mức giá_như vậy .
-568	0	1	đi trúng hôm không đông khách nên ở bao thoải_mái .
-569	1	1	nhân_viên nhiệt_tình tư_vấn chỗ đi chơi , nhất_là cô bé quản_lý khá là chăm khách .
-570	0	1	bên cạnh có cái bar đơn_vị tui gì đó , bụi bụi chất chất được phết .
-571	0	1	túm lại đúng tinh_thần hostel , ngon , rẻ , hơi bổ .
-572	2	0	mình hi_vọng khi dọn phòng nên đổ rác luôn .
-573	0	1	không_gian yên_tĩnh , mát_mẻ .
-574	6	1	có phòng máy_lạnh và wifi miễn_phí nhân_viên hiếu_khách , nhiệt_tình .
-575	0	1	tôi cảm_thấy thoải_mái khi ở tại vove hostel .
-576	0	1	địa_điểm yên_tĩnh , không_gian xung_quanh khá ổn .
-577	0	1	là một lựa_chọn đáng tiền so với mức giá tương_đương .
-578	0	1	tôi sẽ trở_lại nếu có dịp đến đà_nẵng .
-579	5	1	địa_điểm gần công_viên biển đông , thuận tiên vui_chơi .
-580	4	2	phòng hơi chật .
-581	2	0	bố_trí ổ_cắm điện không hợp_lý và rất ít ổ_cắm , gây bất_tiện .
-582	4	0	rèm không có cản sáng nên sáng bị dậy sớm .
-583	5	1	khách_sạn rất gần biển .
-584	5	1	ra cửa đi tầm vài bước chân là thấy biển luôn rồi .
-585	0	1	khá sạch_sẽ .
-586	2	2	tuy_nhiên phòng diện_tích khiêm_tốn .
-587	1	1	nhân_viên phục_vụ khá tốt nhiệt_tình .
-588	0	1	mội thứ tốt nhân_viên hoà_đồng .
-589	0	1	tốt .
-590	1	2	tuy_nhiên có_điều cần lưu_ý là nhân_viên lễ_tân nói_xấu khách khác trước mặt khách .
-591	1	2	các bạn bàn_giao chìa_khoá ko cẩn_thận làm mất chìa_khoá .
-592	1	2	nhân_viên các bộ_phận khác mặc đồ thường vào quầy ngồi và nhìn khách bằng những ánh mắt rất là như trên trời rớt xuống .
-593	4	0	rèm mỏng khiến phòng buổi sáng sớm đã rất sáng không thích_hợp cho trẻ nhỏ .
-594	6	0	wiffi kém
-595	1	1	nhân_viên cẩn_thận , gọi điện và khá chu_đáo trước khi đến khách_sạn .
-596	2	0	nhìn không rộng_rãi như trên ảnh cũng không có hướng phòng nhìn ra cửa_sổ .
-597	0	0	ngoài_ra , giá trên booking đắt hơn giá thuê trực_tiếp ở ngoài .
-598	0	1	ấn_tượng nhất là con_người đà_nẵng , tốt_bụng và thân_thiện .
-599	0	1	có dịp sẽ trở_lại ... phòng cách_âm tiếng ồn hơi kém .
-600	2	0	khòng không có cửa_sổ .
-601	1	1	nhân_viên phục_vụ chu_đáo , nhiệt_tình .
-602	1	1	phục_vụ nhiệt_tình .
-603	1	1	nhân_viên vô_cùng thân_thiện , luôn nở nụ cười .
-604	0	1	nhất_định sẽ quay lại
-605	2	0	giưởng và phòng tắm vị_trí phòng .
-606	2	0	phòng tôi ở nằm ngay dưới khu bếp của khách_sạn nên vào sáng sớm có nhiều tiếng ồn làm tôi không_thể ngủ được
-607	0	1	giá_cả hợp_lý .
-608	0	1	sạch_sẽ .
-609	6	1	tiện_nghi đầy_đủ .
-610	1	1	nhân_viên vui_vẻ hoà_đồng thân_thiện
-611	5	1	địa_điểm thuận_lợi .
-612	1	1	nhân_viên phục_vụ tốt .
-613	4	0	thiết_kế nhà_vệ_sinh chưa thuận_tiện .
-614	4	0	bữa sáng nên kéo_dài lâu hơn .
-615	5	1	vị_trí gần biển , thuận_tiện .
-616	1	1	nv lịch_sự thân_thiện .
-617	2	0	chỉ cần cải_thiện cách_âm phòng nữa là hoàn thiên cách_âm phòng vs phòng tắm và khu_vực ngoài chưa hoàn_hảo lắm
-618	5	1	khách_sạn nằm ngay gần biển rất lý_tưởng cho du_lịch biển .
-619	1	0	nhân_viên bảo ko biết dịch_vụ booking là gì nên mình phải bỏ tiền ra đặt bảng giá niêm_yết của khách_sạn với giá cao hơn nhân_viên báo_giá lung_tung , lúc đầu mình đạt qua booking giá là 1.000.000 nhưng khi vào khách_sạn thì nhân_viên lễ_tân tên mẫn bảo ko biết dịch_vụ booking là gì và bảo giá phòng cho 2 người là 1.400.000 vnđ , mình lại hỏi đến booking.vn thì lúc sau nhân_viên bảo được giảm_giá còn 1.200.000 vnđ
-620	1	1	nhân_viên nhiệt tình .
-621	5	1	khách_sạn gần biển rất tiện_lợi .
-622	1	1	phong_cách phục_vụ và sự_thân thiện .
-623	2	1	phòng nghỉ sạch_sẽ .
-624	3	1	cháo ăn sáng khá ngon .
-625	3	0	đồ_ăn sáng là mì xào không ngon .
-626	4	0	đèn_chiếu gương phòng tắm bé và tối .
-627	2	0	cửa_sổ phòng nghỉ nhìn thẳng ra nhà làm quan_tài .
-628	6	1	có sky bar nhìn toàn_cảnh thành_phố rất thú_vị .
-629	6	0	xe cho thuê chưa thực_sự tốt lắm .
-630	1	1	nhưng nhân_viên ks đã đổi xe hôm sau .
-631	1	1	nhân_viên rất thân_thiện và nhiệt_tình .
-632	4	1	khi mình hỏi những chỗ ăn ngon thì chị tiếp_tân đưa hẳn một list với các món như bánh_xèo , mì quảng , bún mắm , chả cá , hải_sản ... ngoài_ra giường gối , máy_lạnh và các vật_dụng khác đều tốt .
-633	5	1	đặc_biệt là khách_sạn có view đẹp và địa_thế khá tốt thuận_lợi cho việc đi_lại .
-634	4	0	máy_nước nóng lúc nóng lúc lạnh .
-635	0	1	khách_sạn rất tốt , sẽ chiều lòng được ngay cả những người khó_tính .
-636	3	1	phục_vụ ăn sáng tốt , salad ngon < 3
-637	3	0	một điểm trừ nhỏ .
-638	0	1	chắc_chắn sẽ quay lại cho lần tới !
-639	5	1	vị_trí đẹp .
-640	2	1	cửa_sổ lớn nhìn view ra sông tuyệt_vời .
-641	4	0	wc nước xả_hơi yếu
-642	0	1	kì nghỉ rất tuyệt .
-643	3	0	bữa sáng còn khá đơn_giản .
-644	1	1	nhân_viên nhiệt_tình , hướng_dẫn khách tận_tình các địa_điểm vui_chơi .
-645	1	1	nhân_viên vui_vẻ .
-646	3	0	bữa sáng nên bổ_sung thêm món ăn cho phong_phú hơn
-647	0	1	view tốt .
-648	6	0	xe_máy cho thuê hơi cũ
-649	2	1	view từ phòng nhìn ra biển rất đẹp .
-650	4	1	thiết_kế nội_thất hợp_lý , tiện_lợi .
-651	4	0	khăn tắm và khăn mặt không trắng .
-652	3	0	bữa sáng không phong_phú .
-653	3	0	món ăn ít về lượng .
-654	2	1	mình ở phòng deluxe view sea_, view rất ok .
-655	4	0	điểm trừ là giường hơi yếu , hoạt_động mạnh tí là đã rung rồi : ) ) )
-656	1	1	nhân_viên thân_thiện , nhiệt_tình .
-657	0	0	biển trước khách_sạn vắng người nhưng có rác bao mì tôm , bọc ni lon , hộp sữa ... mĩnh nghĩ do những thuyền đánh_cá gần đó thả xuống biển
-658	3	1	bữa sáng đa_dạng .
-659	0	1	buổi tối có biểu_diễn âm_nhạc , khá hay .
-660	5	2	khách_sạn đối_diện biển nhưng xa bãi_tắm trung_tâm .
-661	0	0	bãi_tắm đối_diện ks có biển cấm tắm
-662	0	1	gia_đình mình đã có một kỳ nghỉ rất tuyệt_vời .
-663	6	0	một điểm trừ đó là wifi khách_sạn rất yếu .
-664	0	1	bên dưới ngay khách_sạn là quán cà_phê nên rất tiện .
-665	0	1	đồng_thời , hằng đêm từ 8h có hát live nên khá thú_vị .
-666	3	2	bữa sáng không quá nhiều món nhưng cảm_thấy đủ .
-667	5	1	ngay biển nên gió biển rất mát .
-668	2	1	phòng tiện_nghi và sạch_sẽ .
-669	5	2	gần khách_sạn không có địa_điểm gì đặc_biệt mà chủ_yếu chỉ có các nhà_hàng hải_sản và có biển .
-670	2	2	phòng có hơi nhỏ nhưng cảm_thấy ổn .
-671	1	1	nhân_viên phục , lễ_tân vui_vẻ dễ mến .
-672	6	1	việc chuẩn_bị chỗ tắm nước_ngọt với khăn sạch sẵn_sàng là 1 ý hay .
-673	1	1	nhân_viên thân_thiện , nhiệt_tình .
-674	3	1	bữa sáng khá ổn ! !
-675	4	0	nhưng phòng_không có đèn sáng : (
-676	3	0	món ăn bữa sáng ko phong_phú , mỗi ngày chỉ có 2 món thay_đổi .
-677	2	0	dọn phòng chưa sạch , khu nhà_tắm ko cọ tường và kính .
-678	2	0	cửa ra ban_công rỉ sét , khó mở và đóng
-679	5	1	vị_trí tốt .
-680	6	1	bãi biển đẹp .
-681	1	1	nhân_viên thân_thiện , vui vẻ .
-682	3	0	bữa sáng nên cải_thiện nhiều món hơn , đa_dạng hơn
-683	3	1	bữa sáng ngon .
-684	4	0	muốn phòng tranh bị thêm bồn_tắm .
-685	1	1	nhân_viên nhiệt_tình , chu_đáo , thân_thiện .
-686	6	1	ban nhạc tuyệt_vời .
-687	1	1	nhân_viên phục_vụ ân_cần , lịch_sự .
-688	1	2	hai nhân_viên lễ_tân , có một nhân_viên rất nhiệt_tình , còn một nhân_viên chưa tốt .
-689	1	2	hai nhân_viên lễ_tân , có một nhân_viên rất nhiệt_tình , còn một nhân_viên chưa tốt .
-690	4	0	vòi_nước nóng lắp ngược , nhưng lại thiếu cảnh_báo .
-691	4	1	giường rộng thoải_mái .
-692	4	1	phòng đầy_đủ tiện_nghi .
-693	5	1	gần biển và cầu sông hàn .
-694	6	1	có thang_máy .
-695	4	0	ga giường và gối nên cải_thiện .
-696	1	1	nhân_viên thân_thiện , nhiệt_tình .
-697	2	1	giá phòng hợp_lý .
-698	5	1	tiện đi ra biển và vào trung_tâm .
-699	4	0	nhà_vệ_sinh gây mùi khó_chịu .
-700	2	0	cửa nhà vệ_sinh không kín , có kẽ hở .
-701	5	1	gần biển và cũng gần trung_tâm luôn .
-702	6	1	mình thuê xe_máy ở khách_sạn để đi chơi 2 ngày .
-703	1	1	nhân_viên nhiệt_tình .
-704	0	1	lần sau đến đà_nẵng sẽ thuê tiếp ở đây .
-705	1	1	nhân_viên thân_thiện .
-706	5	1	khách_sạn khá gần trung_tâm .
-707	4	0	drap giường có vài vết ố vàng đỏ .
-708	5	1	địa_điểm tuyệt_vời , gần bãi biển và sông hàn .
-709	1	1	nhân_viên nhiệt_tình , dễ mến .
-710	4	0	chăn ga còn một_số vết ố vàng
-711	0	1	sạch_sẽ .
-712	1	1	nhiệt_tình .
-713	0	1	giá rẻ phòng hơi nhỏ .
-714	2	2	nhưng cặp đôi thì phù_hợp
-715	0	1	rất đáng tiền .
-716	2	0	phòng cách_âm chưa tốt , dễ bị ồn khi có khách ra vào thang_máy .
-717	0	1	giá xứng_đáng cho địa_điểm như_vậy .
-718	1	1	nv nhiệt_tình .
-719	1	1	nhân_viên tuyệt_vời .
-720	0	1	hotel đẹp .
-721	3	1	bữa sáng và nhà_hàng ngon tươi !
-722	2	1	view phòng rất dễ_thương .
-723	3	0	bữa sáng phục_vụ quá muộn , 7h muốn ăn để check out kịp chuyến bay mà chưa phục_vụ
-724	1	0	nhân_viên lễ_tân ko chuyên_nghiệp , thái_độ phục_vụ kém .
-725	1	0	ngày đến check in báo ko xếp đc 2 phòng liền nhau do phòng hỏng , nhưng thực_tế là có khách khác đang ở , gia_đình 2 phòng , xếp 1 phòng tầng 3 , 1 phòng ở tầng 5 .
-726	1	0	em_gái mình ở phòng tầng 3 có 1 mình , đang thay đồ có người nam mở_cửa phòng đi vào , nói do lễ_tân báo đã check out nên đi mở_cửa đi kiểm_tra phòng ? ? ? ? ? ?
-727	1	0	nhân_viên lễ_tân cũng ko 1 lần nào nói xin_lỗi gđ mình về việc này .
-728	1	0	báo cần dọn phòng nhưng ko hề dọn .
-729	2	0	ở ks mà cảm_giác ko hề an_toàn , như kiểu lúc_nào cũng có ng xông vào phòng đc vậy .
-730	0	0	cảm_giác còn tệ hơn là nhà_nghỉ rẻ_tiền nữa
-731	1	0	có 1 điều duy_nhất ko hài_lòng là nhân_viên fo ( nữ ) ngang_nhiên vừa gặm bánh_mì vừa nhai vừa nói_chuyện w khách .
-732	0	0	cảm_thấy thực_sự sock đối w dịch_vụ of 1 khách_sạn 3 *
-733	0	0	khách_sạn nằm ngay ngã tư , xe từ 4 chỗ trở lên khó đỗ lâu hoặc khi cần quay đầu .
-734	3	1	ăn sáng tuyệt_vời .
-735	3	1	phù hop mọi khẩu vi .
-736	5	1	gần chợ cồn , khu ăn_uống đường bạch_đằng .
-737	6	1	thuê xe_máy tốt , giá rẻ .
-738	4	0	nhà_vệ_sinh thỉnh_thoảng có mùi cóng bốc lên ,
-739	1	1	nvien ksan nhiệt_tình .
-740	3	2	ksan có ăn sáng nhưng nếu có buffet thì cực ổn .
-741	4	0	trong phòng nghỉ thỉnh_thoảng có tiếng ục nước từ bồn vsinh trong wc
-742	5	1	vị_trí ngay trung_tâm nên tiện_lợi về nhiều mặt , khách_sạn nằm trên đường lê_duẩn tha_hồ mua_sắm .
-743	3	0	- ăn sáng không có buffe nên hơi khó lựa_chọn .
-744	0	0	- tôi đổi ngày ở từ 3 đêm xuống còn 2 đêm và khách_sạn vẫn tính phí 30% của đêm thứ 3 dù trên booking.com nói rằng khách_hàng cancel hay đổi ngày trước 4 ngày thì không tính phí .
-745	3	1	bữa sáng ngon .
-746	0	2	giá chỉ tốt ở mức giá dưới 30 usd .
-747	4	0	phòng tắm không sử_dụng kính ngăn chắn nước nên rất bất_tiện sau mỗi lần tăm .
-748	4	0	đèn trần toilet bố_trí không đủ sáng và không đúng vị_trí cần_thiết chiếu sáng .
-749	4	0	ánh_sáng gương soi mặt tối không đủ sáng .
-750	3	1	yên_tâm ngon như ở nhà
-751	2	0	phòng cách_âm rất kém , nghe rõ tiếng ồn bên ngoài hành_lang .
-752	1	1	nhân_viên thân_thiện .
-753	5	1	gần biển .
-754	4	0	gối quá cao .
-755	4	0	phòng tắm hơi hẹp
-756	1	1	nhân_viên nhiệt_tình , thân_thiện .
-757	6	0	phòng gym không đầy_đủ tiện_nghi .
-758	2	0	phòng ngủ còn bẩn một_vài chỗ .
-759	0	1	sẽ quay lại khách_sạn này nếu có dịp vào đà_nẵng .
-760	0	1	tốt .
-761	0	1	giá_cả hợp_lý .
-762	1	1	cô chủ nhà thân_thiện .
-763	0	1	tiện_nghi rất hợp_lý với giá tiền .
-764	1	1	nhân_viên thân_thiện , nhiệt_tình
-765	0	1	cần giải_thích rõ cho khách_hàng về điều_khoản thanh_toán qua thẻ_ghi_nợ quốc_tế .
-766	5	0	nếu muốn tắm biển , khách phải đi bộ khoảng 5 - 7 phút để ra đến bãi_tắm .
-767	0	1	tuy_nhiên rất yen tĩnh và sạch_sẽ
-768	5	0	địa_điểm quá xa trung_tâm
-769	2	1	phòng ngủ yên_tĩnh .
-770	3	1	thực_đơn bữa sáng phong_phú .
-771	3	0	bữa sáng đồ ăn chưa được phong phú lắm
-772	1	1	gia_đình tôi có 4 người_lớn vs 1 bé 8 tháng tuổi được chăm_sóc rất nhiệt_tình .
-773	6	1	khách_sạn gia_đình rất thân_thiện , mỗi thành_viên trong gia_đình là mỗi nhân_tố để mang tới kỳ nghỉ thật tuyệt_vời tại đà_nẵng .
-774	2	1	dịch_vụ thuê xe đi hội_an và các điểm du_lịch giá_cả hết_sức phải_chăng .
-775	0	1	nếu mọi người tìm_kiếm nơi nghỉ lý_tưởng với phòng đẹp , mới , nhân_viên thân_thiện và nhiệt_tình thì hãy chọn charming đà_nẵng .
-776	0	1	mọi thứ đều tuyệt_vời !
-777	1	1	chủ khách_sạn nhiệt_tình , thân_thiện .
-778	1	1	ks tư_vấn nhiệt_tình khi có yêu_cầu ( chủ ks tư vần luôn nha )
-779	0	0	đây là phòng đặt cho sếp nên sếp về complain không tốt về khách sạn .
-780	6	1	chỗ ngồi bãi biển đẹp .
-781	6	0	bể_bơi đẹp nhưng chúng_tôi nghỉ đúng dịp đang xây sửa nên bị ảnh_hưởng rất lớn
-782	5	1	biển đẹp .
-783	5	1	vị_trí ks đẹp .
-784	6	2	hồ bơi nhỏ xúi .
-785	2	0	phòng chật_chội .
-786	2	1	phóng_view sông hàn tuyệt đẹp , nhất_là vào buổi tối .
-787	1	1	cách phục_vụ rất tốt .
-788	2	1	phòng ở rất sạch_sẽ và đẹp .
-789	2	2	phòng cách_âm chưa tốt lắm .
-790	0	0	mình đến 1 lần và sẽ ko có ý_định quay lại đây ở nữa : )
-791	0	1	mình nghĩ chỗ này rất phù_hợp với các bạn trẻ thích chụp hình vì sân vườn rộng_rãi , mát_mẻ .
-792	1	1	nhân_viên khách_sạn rất nhiệt_tình .
-793	0	1	tuy_nhiên nhân_viên khách_sạn đã thông_báo sớm cho mình và hỗ_trợ rất nhiều thứ nên mình thấy rất chủ_động và hài_lòng với chuyến đi này .
-794	4	0	đặc_biệt hostel có 2 bạn thú cưng là dim_sum và sushi mang lại cho mình cảm_giác rất thân_thiện như ở nhà vậy .
-795	5	1	gần cầu rồng .
-796	0	1	không_gian cực_kỳ mở , thoải_mái .
-797	0	1	giá tiền rẻ so với vị_trí gần biển .
-798	1	1	nhân_viên nhiệt_tình , vì tiện_ích không đc tốt nên khi xin thêm gối hay khăn tắm và chăn đc thì các bạn đáp_ứng tốt .
-799	6	0	không có chỗ để treo quần_áo kể_cả những móc treo tường nhỏ
-800	6	0	không_gian rất tuyệt , concept nhà ở khá độc và lạ hơi tiếc vì phòng mình ở container bên dưới , nếu ở tầng trên thì chắc view sẽ tuyệt hơn .
-801	0	1	hostel có em chó đáng yêu kinh_khủng = ) ) vào phòng mình nằm ngủ cả đêm ( chắc có_điều hoà mát ) .
-802	0	1	nói_chung với mức giá 140 k / ng / phòng 4 mà điều_kiện vật_chất , giải_trí như ở packo là ổn rồi : ) toilet sạch hơn 1 chút thì tốt : ( rèm cửa phòng tắm dính hơi nhiều cát t-t ga giường cũng hơi sạn nữa
-803	1	0	mình hỏi bản_đồ thì nv kêu hết , hỏi thêm rằng bạn có gợi_ý gì cho mình khi thăm đà_năng k thì bạn ấy ngơ_ngơ , kiểu thờ ờ .
-804	1	0	k hướng_dẫn gì về bữa sáng hay wifi .
-805	4	0	giường dorm thì trở_mình là kêu cọt_kẹt , cảm_giác thở mạnh thôi cũng phát ra tiếng_động làm ảnh_hưởng người khác .
-806	3	0	bữa sáng nghèo_nàn và chán nhất mình từng biết , chỉ có bánh_mì và 2 loại mứt cùng trứng và phải tự làm trứng trong khi k có sự hướng_dẫn nào .
-807	5	1	nơi này chỉ cách biển khoảng 30-40 m , sáng sớm nhóm mình đã đi bộ ra biển xem bình_minh và tắm biển , biển sáng rất ấm nhé .
-808	4	0	khách_sạn gần biển mà chưa có khu_vực tắm và rữa chân lại trước khi lên phòng .
-809	4	0	lavabo bị nghẹt rút nước chậm .
-810	4	0	không có tivi trong phòng .
-811	0	0	nếu bạn ở chung với khách lịch_sự giữ trật_tự thì không sao , nhưng ở với những người bất lịch_sự thì rất ồn_ào khó ngủ
-812	0	1	chỗ nghĩ đẹp , ở vị trí thuận lợi để được thoải mái dạo biển .
-813	0	1	khung_cảnh hostel đẹp , độc_đáo , khuân viên bãi cỏ và cây_xanh mát_mẻ nhân_viên nhiệt_tình , thân_thiện .
-814	1	1	yêu nhất bạn " nhân_viên " golden tên điểm_sấm cực_kỳ đáng yêu ks gần bãi biển và các khu vui_chơi giải_trí .
-815	2	1	toàn các bạn trẻ nên packo luôn tràn_ngập năng_lượng - anh chủ kute , dễ_thương - phòng ngủ sạch_sẽ - nhà_tắm chung sạch , không mùi hôi .
-816	0	1	không_gian sinh_hoạt chung rộng k đầy_đủ tiện_nghi .
-817	4	0	móc treo đồ , dép k có.tv hay tủ_lạnh cũng k
-818	3	1	nguyên_liệu bữa sáng được chuẩn_bị chu_đáo để khách tự vào bếp .
-819	0	1	không_gian đẹp , thân_thiện .
-820	2	0	giá phòng đắt .
-821	5	1	rất gần với biển , nằm ở trung_tâm nên tiện đường di_chuyển .
-822	1	1	nhân_viên thân_thiện , nhiệt_tình , dễ_thương .
-823	0	1	con chó nhìn kute .
-824	5	1	rất gần bãi biển mỹ khê .
-825	3	1	bữa sáng ngon .
-826	1	1	nhân_viên thân_thiện .
-827	0	1	thoải_mái
-828	1	2	lễ_tân thì tạm ổn .
-829	1	2	nhân vien bảo_vệ thì rất nhiệt_tình dễ_thương ! ! !
-830	3	0	bữa ăn sáng của khách_sạn chỉ duy_nhất 1 món 1 ngày thì_phải , mình xuống ăn chỉ đưa phiếu r nhân_viên bê ra 1 bát mì quảng , hết .
-831	3	0	hsau mình đã ko chọn ăn sáng ở ks nữa .
-832	2	2	nhân_viên dọn phòng hàng ngày ko được sạch .
-833	0	0	tuy_nhiên mặt_bằng chung với giá đó cùng khu_vực có rất nhiều khách_sạn phòng đẹp hơn .
-834	2	1	- dọn phòng sạch_sẽ mỗi ngày .
-835	5	1	- khách_sạn ở ngay mặt đường lớn , đi_lại dễ_dàng - nhân_viên phục_vụ : 1 .
-836	1	0	có em nhân_viên lễ_tân nói_chuyện không được thân_thiện cho lắm .
-837	1	0	nhân_viên xộc vào kiểm_tra , kiểm_tra , ... không_nói_không_rằng rút phựt dây sạc , quẳng điện_thoại của mình lên bàn .
-838	5	1	khách_sạn này nằm gần a la_carte_hotel , bạn có_thể tản_bộ đến đó và lên tầng 23 uống cafe với view nhìn đà_nẵng từ trên cao rất đẹp .
-839	2	0	phòng ở hơi nhỏ .
-840	1	0	ngoài_ra thì không nên nhờ nhân_viên tư_vấn địa_điểm ăn_uống gần khách_sạn , vì họ sẽ tư_vấn không khách_quan .
-841	0	2	chất_lượng khách_sạn tương_ứng với giá tiền .
-842	0	2	nếu chỉ cần một chỗ ngủ qua đêm để di_chuyển xuống hội_an thì hoàn_toàn thích_hợp .
-843	5	2	chỉ mất 5 phút đi bộ là có_thể ra đến bãi biển .
-844	1	1	nhân_viên thân_thiện , nhiệt_tình .
-845	0	2	còn trong trường_hợp muốn đi ăn vặt thì nên book phòng bên kia sông sẽ tiện hơn .
-846	1	1	nhân_viên nhiệt_tình , thân_thiện .
-847	5	1	vị_trí ổn , đi bộ 5p là ra đến biển , gần các quán ăn .
-848	2	1	phòng sạch , ngày nào cũng có nhân_viên đến dọn .
-849	3	2	bữa sáng bình_thường , không phải ngon lắm nhưng vẫn chấp_nhận được .
-850	5	1	vị_trí thuận_tiện đi_lại , gần biển .
-851	1	1	nhân_viên nhiệt_tình .
+400	1	0	Miếng thịt nạm bự thiệt luôn á , ăn rất_chi_là thích và cảm_thấy xứng_đáng với đồng_tiền mình bỏ ra .
+401	1	1	Tô phở thập_cẩm , tái nạm bò viên giá 75k .
+402	1	0	Giá bình_dân lắm nhe chỉ 20 k / 6 viên nhân tự chọn luôn nhe .
+403	1	0	Vỏ mỏng , nhân nhiều , cắn ngập răng luôn .
+404	1	0	Nước dùng ngọt , thơm mùi hồi - quế , đúng chất phở ngon .
+405	1	0	Thịt mềm ngon , gân dai giòn , bò viên , chấm cùng tương ăn rất ngon .
+406	3	0	Ngoài_ra quán còn đang có chương_trình ăn hoá_đơn trên 1 triệu được tặng 12 lon Pepsi hấp_dẫn .
+407	1	1	Có 6 loại xíu_mại há cảo các bạn ăn nhiêu gọi nhiêu cũng bán thấp nhất hộp 20k Chú đang đếm bao_nhiêu cục cho vô hộp Ở đây cũng bán các loại bánh_bao và xôi lá_sen nữa .
+408	1	1	Ko có chỗ ngồi nên bán cũng nhanh lẹ lắm lúc đông thì cũng chờ hơi lâu Bánh_bao xá_xíu 7k .
+409	3	0	Cứ nhà không nấu cơm là chạy ta phở Ông Hùng mỗi người 1 tô .
+410	3	0	Cơ_mà vừa_rồi ăn trên 300K ngay ưu_đãi tiệc càng đông càng vui được bao lì_xì .
+411	3	0	Nghe_nói trên 1tr được thùng Pepsi .
+412	1	0	Phở ngon , nước dùng thơm ngọt , nạm có gân mềm , ăn rất non , kết_hợp cùng bò viên dai giòn cực_kì kích_thích vị_giác .
+413	3	0	Sẽ sớm quay lại trong thời_gian tới nếu có cơ_hội .
+414	4	2	Nhà_hàng Ngọc_Sương_Bến_Thuyền nằm hơi khuất dưới cầu nên không để_ý mọi người sẽ không thấy .
+415	3	0	Khách tây lẫn ta cũng ăn_ở đây khá nhiều
+416	4	1	Khắp Sài_Gòn thân iu này , chúng_ta đi đâu cũng gặp quán ốc , từ bình_dân đến cao_cấp , từ mặt_tiền đường đến ngõ_cụt trong hẻm , từ trung_tâm ra đến vùng_ven đều được thần_dân DDAU tìm ra ^ ^ và bài rì ziu này em xin giới_thiệu đến anh_chị một địa_điểm ăn ốc tại quận 3 đường Nguyễn_Thiện_Thuật .
+417	0	1	Mặt_tiền và không_gian chỗ ngồi của quán Cận_cảnh quầy hải_sản tươi ngon .
+418	1	1	Chấm kèm nước_mắm thơm ngon số zách Sò_huyết xào me hơi chua nhưng được_cái con to Sò điệp nướng phô_mai nướng hơi bị khét xí .
+419	1	1	Nhưng chấm kèm nước_mắm của quán hơi bị ngon đó nha : D Ốc khế nướng muối ớt - hơi bị zai và không ngon cho lắm Ốc mỡ xào bơ tỏi - không có điểm gì đặc_sắc và nổi_bật Ốc_hương rang muối ớt - ốc hơi nhỏ nhưng thịt giòn và thơm Hào nướng phô_mai - hào ở đây con to như lòng bàn_tay , nêm nếm vừa khẩu_vị của em Tổng thiệt_hại một bữa hải_sản ^ ^ Sau đây là menu của quán ( + ) Hải_sản tươi , phục_vụ vui_vẻ nhiệt_tình , giữ xe có thẻ và miễn_phí .
+420	5	1	( - ) Lên món hơi lâu .
+421	1	0	Vô_tình lụm được bí kíp , phát_hiện ra quán Kem bơ Buôn Mê hương_vị đúng chất Đà_Lạt khỏi đi đâu xa mà vẫn thoả_mãn được cơn thèm ngay tại Sài_Gòn .
+422	1	0	Bơ siêu béo và ngon , đậm vị bơ nguyên_chất , giá 30k cho một ly cũng phải thôi .
+423	1	0	Cơm dừa giòn sần_sật Yaourt phô_mai , lớp yaourt mềm mịn , chua_chua ngọt ngọt thơm thoảng qua là mùi phô_mai ăn là ghiền luôn Yaourt trái_cây , bên trong gồm các loại trái_cây như dâu , dưa_hấu , bơ , xoài , đu_đủ , ... trái_cây tươi ngon hết nấc Sinh_tố bơ nè , như kem bơ trên mà không có kem thôi : ) ) ăn thì nhạt hơn có kem
+424	1	2	Nhà_hàng sushi mà sashimi không ngon là thua .
+425	4	1	Bữa ngày lễ mình rủ gia_đình đi ăn Hana buffet ở chi_nhánh mới bên Nguyễn_Văn_Linh , Q. 7 .
+426	0	1	Chỗ này mình thấy hình_như không rộng bằng chi_nhánh bên Phạm_Viết_Chánh .
+427	3	0	Chi_nhánh này cũng khá đông , hầu_như cuối tuần full bàn luôn .
+428	3	1	Vé buffet người_lớn là 276 k / người , nhỏ dưới 1m miễn_phí !
+429	1	0	Đồ_ăn vẫn gọi theo set menu có thịt bò , gà , cá , tôm , ốc , mì , lẩu , … ăn gì kêu nấy !
+430	1	0	Hana buffet có một_số món nướng sẵn , một_số món mình tự nướng tại bàn !
+431	1	0	Đồ nướng tại bàn nóng_hổi ăn khá ngon_miệng .
+432	5	2	Mình gọi có món phải nhắc lại mấy lần nhân_viên mới mang ra , kêu nước cũng đợi 20 phút chưa có , phải nhắc lần 2 nhân_viên mới mang nước ra !
+433	2	1	Nước uống thì tính tiền riêng nha các bạn , trà đá 5 k / ly , nước ép tầm 30k-35k/ly.
+434	3	1	Nói_chung đồ_ăn vẫn như các chi_nhánh khác , nếu phục_vụ nhanh hơn xíu thì ok hơn !
+435	1	0	Đánh_giá sơ_bộ là phở ở đây ngon , nước sốt rất đậm_đà , bánh_phở dai và vừa_miệng , thịt tươi , ngon .
+436	1	0	Rau ngò giá tưởi , sạch , được bọc kỹ trong nilon rất vệ_sinh , lịch_sự .
+437	3	0	Nghe kêu quán đang có khuyến_mãi ăn 1 triệu đồng là được tặng 1 thùng pepsi nghe cũng hấp_dẫn .
+438	1	0	Phở có nước dùng thanh ngot , không có quá nhiều bột_ngọt , thịt tái tươi , ngọt , rõ vị thịt tươi , gân được hầm vừa tới , giòn ngon .
+439	3	0	Theo lời bạn nhân_viên thì hệ_thống nhà_hàng món Huể - phở Ông Hùng và cơm thố cháy còn đang có chương_trình khuyến_mãi ăn trên 1 triệu được tặng 12 lon pepsi , các bạn nên dẫn gia_đình đến thử sức nhé .
+440	1	0	Quán này thấy đông bạn check-in , đến ăn thì thấy các món Hàn mà giá không cao như nhà_hàng , lại rất đúng chất .
+441	1	0	Kimbap ăn toàn rau , chấm sốt riêng ngon .
+442	1	1	Có chén canh đi kèm với cơm trộn , húp thấy vị bình_thường .
+443	1	1	Ăn chủ_yếu là thấy cay , thứ 2 nữa là bột quá , dễ ngán .
+444	1	0	Canh_Kimchi ăn chua_chua cay cay , rau cải mềm và mặn mặn , thích canh này nè !
+445	4	0	Nhỏ bạn rủ đi ăn sáng quán này đối_diện The_Garden_Mall nên khá dễ tìm .
+446	1	1	Hủ_tiếu mì tay cầm 36k , thật_ra là món hủ_tiếu mì với giò heo hầm chao đỏ .
+447	1	0	Mình gọi phần đặc_biệt nên kèm theo trứng ốp la và các loại chả 2 miếng dăm bông ngon Chả chiên dai ngon Pa tê beo_béo ăn kèm bánh_mì khá ngon Menu cho các bạn tham_khảo
+448	1	0	Xiên nướng ở đây ăn cực_kì ngon lun .
+449	1	0	Giá chỉ 5k thôi .
+450	2	1	Còn có mấy nó nước_đá mới có giá từ 15k tới 50k .
+451	1	0	Phong_phú hơn_nữa quán còn có lẩu nữa nhé .
+452	1	0	Đồ nướng khá ngon , cách ướp quá_xá là ok , ăn vừa_miệng gì đâu lun ấy .
+453	1	0	Ă đã lắm lun á nha ^ ^ .
+454	5	0	Vào bàn ăn là được phục vụ chuẩn bị sẵn sàng " đồ chơi " luôn nha .
+455	1	0	Nếu gọi xiên nướng thì nhớ gọi đậu bắp nướng ăn cho đỡ ngán nha ... Chân gà nè , được ướp gia vị khá thấm đấy ... Làm một vỉ nướng lên thơm phức luôn , đồ ăn ở đây ướp cực kỳ chuẩn , đi ăn đồ nướng thì gia vị quan trọng lắm nha , nó quyết định đến chất lượng món ăn á .
+456	1	0	Nem nướng nè ... Còn đây là mấy xiên thịt heo ba chỉ với mấy xiên mề gà ... Mấy món nướng như thế này uống bia thì càng tuyệt hơn đúng không nào .
+457	0	0	Không_gian nhỏ nhưng dễ_thương .
+458	1	0	Kem xoài ăn là biết làm từ xoài tươi , xôi cũng rất ngon .
+459	3	0	Sẽ quay lại trong tương_lai .
+460	4	1	Bánh_xèo okonomiyaki còn đây là Takoyaki_Là một quán ăn_đường phố với chiếc xe đẩy nhỏ nằm trên đường Trang_Tử Q. 5 , Quán đã có từ rất lâu rồi nổi_tiếng với món bánh takoyaki và bánh okonomiyaki ( bánh_xèo nhật ) .
+461	1	0	ngoài 2 loại sốt trên bánh còn được rắc thêm rong biển và da cá bào góp_phần làm cho món ăn trở_nên tuyệt_vời mang đậm phong_cách Nhật_Bản .
+462	1	0	Còn Về bánh oknomiyaki ( bánh_xèo Nhật ) thì không_thể chê vào đâu được , bánh cũng làm từ nguyên liệu bột giống với takoyaki nhưng được chiên với dạng dẹp với tổng_hợp tất_cả những loại nhân bạch_tuộc , xúc_xích , phô_mai , tôm làm cho món ăn thêm phong_phú và đầy_đủ hương_vị .
+463	1	0	Bánh cũng được ăn kèm với sốt mayonaise và okonomi .
+464	3	0	Tóm_lại , Mình bảo đám Các bạn khi đến quán sẽ không hối_hận về chất_lượng món ăn và giá_cả nơi đây .
+465	5	2	Chất_lượng dịch_vụ ở đây quá kém .
+466	5	2	Mất 45 ' cuộc_đời cho quán ăn không biết ngon dở , dịch_vụ siêu tồi .
+467	1	0	Bữa đi công_việc có đi ngang đường này thấy quán hàu sữa giá rẻ 6k - 8k à nên 2 đứa tấp vào ăn_liền tại đang thèm quá_chừng .
+468	1	0	Ăn từ thời 15k nay lên 17k nhưng chất_lượng vẫn rất OK nha .
+469	4	0	Xe bán gần nhà lại trên đường mình đi làm_nên rất tiện luôn .
+470	1	0	Hệ_thống ăn sáng " 1 phút 30 giây " có nhiều món lắm nha như : sandwich , hamburger , hot-dog , nhưng mình món mình thích nhất và luôn order là pita nha .
+471	1	0	Nội_thất bên trong mỗi pita bao_gồm : thịt nướng , trứng chiên , salad , cà_chua và thêm phần sốt nha .
+472	2	0	Cận_cảnh nè Đi kèm mỗi phần ăn là 1 ly nước nha hình_như có 3 sự lựa_chọn : trà_sữa , ca cao và nước_ngọt nhé !
+473	1	1	Tấp vào thì được bạn nhân_viên giới_thiệu món bánh Pita , thấy lạ nên lấy một phần rồi chạy vào công_ty .
+474	2	0	Ngoài trà sữa bạn có_thể chọn nước_ngọt .
+475	3	0	Một phần ăn như_vậy với giá 18k theo mình là hợp_lý cho một buổi ăn sáng .
+476	1	1	Bánh được để trong báo giấy khá bắt_mắt .
+477	1	1	Bột bánh có_lẽ làm từ bột mỳ .
+478	1	1	Nhân kèm là trứng chiên cùng thịt nướng và một_ít rau .
+479	1	0	Thịt ướp vừa ăn .
+480	1	1	Tuy_nhiên , do tiêu_chí là thức_ăn phục_vụ trong 1 phút 30 giây , các món đi kèm thường được chế_biến sẵn nên không được nóng .
+481	4	0	Quán nằm ngay số 4 Cao_Thắng , Quận 3 .
+482	2	0	Ở đây bán trà sữa na_ná Gongcha nè , mà giá thì mềm hơn chút .
+483	2	0	Còn ly này là yogurt nho size vừa , một ly 32k nè Uống không nghe mùi yogurt mà nghe mùi nho nhiều , giống giống vị trà nho á , ly này thì chua nhiều hơn ngọt Bên trên là topping thạch đào , mà thạch đào ở đây làm ngọt gắt quá = . = uống nước_ngọt rồi thì thạch nên làm bớt ngọt lại , còn lại thì ok .
+484	0	0	Không_gian quán khá rộng_rãi thoải_mái để họp_mặt hay làm_việc nè , đặc_biệt là khách đông nhưng không ồn_ào nha
+485	2	0	Thấy cũng ok á !
+486	2	0	Có trân_châu trắng dai dai giòn giòn cũng ngon lắm nha .
+487	0	0	Đặc biệt ngồi ở đây không khí rất trong lành và thoáng mát .
+488	0	0	Ở đây không chỉ có không_gian mở mà còn có phòng VIP nữa á nha .
+489	1	0	Gà được quán chế_biến qua trước để lúc nước lẩu sôi thì cho vào để làm nóng lại phần gà là thưởng_thức được ngay .
+490	1	0	Ôi 2 đứa ăn có_vẻ hơi nhiều thì phải : ) ) Rau ăn kèm : xà_lách xoong , cải xanh , cải thảo , nấm ... Vì tránh thịt gà bị nát nếu nấu lâu thì mình chỉ cho 1/2 đĩa thịt , còn rau thì cho mỗi thứ 1 loại để nồi nước lẩu thêm hương_vị thanh ngọt của rau hơn .
+491	1	0	Múc lên được nguyên bộ lòng nhìn đã gì đâu hohoho !
+492	3	0	Mới 5h chiều cũng đã có vài khách đến ăn rồi , tối hơi sẽ còn đông nữa á .
+493	0	0	Nhà_hàng toàn_bộ màu trắng rất sang_trọng và nổi_bật trước_mắt .
+494	4	0	( Ngay đối_diện Crescent_Mall luôn , góc ngã tư , kế bên The_Adora ) .
+495	0	0	Không_gian nhà_hàng thiết_kế với tông chủ_đạo màu trắng , đẹp và tinh_tế .
+496	5	0	Bước vào trong thì các nhân_viên nhiệt_tình chào_đón ( các bé nhân_viên lễ_tân mặc đồ sườn xám trắng ton sur ton với màu của nhà_hàng rất dễ_thương ) .
+497	5	0	Không_gian màu trắng sang_trọng , pha lẫn nét cổ_điển với phong_cách Trung_Hoa tha_hồ mà tự sướng .
+498	1	0	Món này nên dùng nóng ngay và luôn khi vừa_mới được mang ra , ăn rất ngon ( vì nhà_hàng mở máy_lạnh lạnh quá nên nhanh nguội lắm ) Còn đây là món xá_xíu xốt mật_ong .
+499	1	0	Bên ngoài mềm , bên trong ngọt khá vừa_miệng .
+500	1	0	Nhìn qua menu thì giá cũng tương_đối mềm so với đẳng_cấp của nhà_hàng .
+501	1	0	Đồ_ăn ngon với mức giá phù_hợp .
+502	5	1	Nhân_viên nhiệt_tình nhưng hơi chậm trong khâu lên món .
+503	1	0	Thịt vịt xông trà rất lạ , hương thơm cực_kỳ luôn .
+504	1	0	Nhìn decor cũng ngon_mắt quá_trời , nói_chung mình thấy đáng_giá .
+505	1	0	Thịt vịt xông trà ăn mềm , thấm sốt riêng thơm ngon khó tả , như_thể đang ăn thịt ướp matcha vậy đó , vừa đậm_đà vừa chát nhẹ , ăn chung salad rất hài_hoà .
+506	1	0	Cái ngon của món này là miếng bò to nhưng mềm đậm , tuy được cắt nhỏ nhưng miếng nào cũng thấm vị .
+507	1	0	Ngon nhất_là kết_hợp với salad tươi ngon thì cảm_thấy thanh_đạm chứ không dầu_mỡ .
+508	1	0	Nhưng mình mua kèm với 1 phần mini Hamburger nữa nên có giá ưu_đãi là 119k .
+509	1	0	Cá_ngừ giòn và đậm vừa khẩu_vị , thịt chắc , dùng với các loại rau ngon cực_kỳ .
+510	1	0	Có_điều sốt trộn chung với loại salad này không phải ai ăn cũng hợp .
+511	1	0	Mini_Hamburger có 3 loại là cá_chiên , bò chiên và gà chiên .
+512	1	0	Thịt không khô như bên ngoài bán , ướp cũng thấm hơn .
+513	2	1	Nước ép ở đây giá cũng tầm 39k - 45k , uống cho thanh mát đẹp da , ahihi .
+514	0	0	Không_gian trong quán nhỏ nhưng được bài_trí trang_nhã , sang_trọng nên vẫn cảm_thấy thoải_mái lắm .
+515	3	0	Còn đây là menu quán nha , hình_như buổi trưa còn có chương_trình khuyến_mãi cho dân văn_phòng đi ăn trưa nữa đó .
+516	1	0	Cơm xào bò ngon lắm .
+517	1	0	Quán cũng có bán súp cua , nói_chung đầy dủ món hết .
+518	1	0	Từ bún_bò , bún mắm , tới cơm , nui mì í , bó bít tết .
+519	2	0	Các loại nước sinh_tố ... Món nào mình thấy cũng ngon cả .
+520	1	0	Ngon nhất có_lẽ là bò bít tết .
+521	1	0	óc heo nhiều lắm nha .
+522	1	0	Ai có bé_nhỏ mua 1 chén này là đầy_đủ chất dinh_dưỡng lun .
+523	1	0	Mì ý ở đây ăn cũng khá ngon .
+524	1	1	Ăn ổn Một dĩa vầy giá 47k nhé
+525	0	1	Chỗ nhỏ thôi nhưng bán cũng khá đắt khách .
+526	3	0	Nói_chung chỗ này ăn ok , ai thích thì mua ăn thử nha !
+527	4	0	Xe bán bánh_mì Kebad này nằm ngay đoạn đường Vĩnh_Khánh giao với Tôn_Đản , bán buổi chiều .
+528	1	1	Bữa mình ăn là 15k , nay lên 17k rồi .
+529	1	0	Bánh_mì ở đây rất nhiều thịt , nhiều rau , ăn 1 ổ là no luôn .
+530	5	0	Khách đa_số mua về , anh bán cũng khá dễ_chịu , xin thêm rau cho rau , thêm sốt cho sốt , nói_chung chiều khách !
+531	3	1	Đi ngang qua thấy quán đông , nên ghé vô ăn thử xem sao , tầm giờ tối mình đi khá là đông_đúc , người mua về , người ngồi lại ăn rất đông .
+532	5	2	Nên mình ngồi đợi món khá lâu .
+533	5	2	Mình ăn mì xào giòn thập_cẩm , mà chờ mãi mới tới lượt .
+534	1	0	Nước sốt xào thì ngon lắm , đồ_ăn và mực ở đây tươi ngon , hợp_khẩu vị mình .
+535	1	2	Nó cứng cứng như mì gói sống , mà đã là mì gói thì rưới nước sốt lên cũng khó mềm .
+536	1	0	Quán bán cũng khá nhiều món , hủ_tiếu xào , cơm xào bò , cơm_chiên cá mặn .
+537	1	2	Ăn xong dĩa mì không no cho lắm : v
+538	1	0	Bánh giòn bên trong lại mềm , nhân chất_lượng khá vừa ăn Túm lại là ưng Bingsu bên này vì được cái chua , khác với mấy loại Bingsu ngọt ở nơi khác vì quá ngán rồi .
+539	3	1	Này đi phải gửi xe bên toà nhà và đi toalet bên toà nhà luôn he .
+540	3	1	Giá_cả đây cũng nhẹ chút so với Bene nè
+541	2	0	Shinning_Gold 28k Chua_chua ngọt ngọt , thanh mát với vị dừa , kích_thích vị_giác vô_cùng .
+542	2	0	Nước ép trái_cây tươi , nguyên_chất , uống vừa ngon lại vừa tốt cho sức_khoẻ , nhất_là da .
+543	2	0	: ) Trái_cây tươi sữa_chua 35k cũng là 1 món hấp_dẫn ở đây !
+544	2	0	Với vô vãn trái_cây tươi đủ loại hoà_quyện vào nhau , không_những thế còn được trang_trí cực_kì bắt_mắt , khiến tín_đồ trái_cây nào mà không_thể rung_động !
+545	0	1	Quán dễ_thương vô đối .
+546	2	0	Có sạp trái_cây tươi ngay tại quán , nhiều loại , nhìn vô là cũng thấy mê rồi !
+547	5	0	Nhân_viên làm ngay quầy , coi thôi cũng thấy thú_vị !
+548	3	0	: ) Nằm trong Pearl_Plaza sang chảnh nhưng giá thì rất mảnh_khảnh , có 129k thôi !
+549	1	0	Có thêm dưa_hấu tráng_miệng !
+550	1	0	1 bàn đầy_ắp món ngon , nhìn hấp_dẫn quá đi !
+551	2	1	: ) Gọi thêm ly : Soda chanh 30k uống để ăn cho đã !
+552	1	0	Ăn no cằng hông với đồ nướng ngon ngon luôn !
+553	3	0	Nhưng bạn nào muốn ăn thêm lẩu thì chỉ thêm có 20k nữa thôi là ăn phủ_phê luôn !
+554	0	0	Không_gian thì đẹp và sang_trọng !
+555	1	1	Menu lẩu và nướng hầu_hết đồng giá 93k .
+556	1	0	Nhiều lúc mình muốn " hoa mắt " với menu ở đây tại vì quán nhiều món đa_dạng , mà món nào cũng vị đậm_đà cả .
+557	1	0	Nguyên_liệu ở đây rất tươi , được chế_biến kỳ_công .
+558	3	0	Quán sạch_sẽ , ngồi ăn khá thoải_mái , là địa_điểm tuyệt_vời cho ai thích đồ nướng , mê lẩu 1 người đó .
+559	1	0	Nước dùng ngọt thanh , sợi hủ_tiếu dai đặc_trưng , rất ok .
+560	1	1	Giá_cả cũng nằm ở mức trung_bình , phù_hợp với mọi thành_phần .
+561	1	0	Quán này quả_thật đã giữ được đúng vị của hủ_tiếu Mỹ_Tho và cái chất của miền Tây .
+562	1	1	Hủ_tiếu sa tế đặc_biệt : 45k Hủ_tiếu Mỹ_Tho : 35k Mì_Gà : 35k
+563	1	0	Hủ_tiếu khô hay hủ_tiếu nước đều 28 k / tô .
+564	1	1	1 tô hình_như là 28k thì_phải , mình ko nhớ chính_xác lắm mà nói_chung khoảng đó nha !
+565	1	0	Bưng ra 2 tô thấy cũng hấp_dẫn lắm nè .
+566	1	0	Nhưng_mà tô ở đây hơi nhỏ ai ăn khoẻ chắc sẽ ko no lắm đâu nha Trong tô có đậu hủ dồn thịt , da heo , bò viên , thịt bò , gân bò , ... cũng đầy_đủ hén !
+567	1	0	Đậu_hũ dồn thịt nè Da heo dai dai , giòn giòn Này là mình kêu thêm chén thịt thập_cẩm không ăn cho đã nè Bò viên cũng khá ngon , giòn giòn Gân bò dẻo dẻo
+568	3	0	Quán_Cacao dừa này quá nổi_tiếng rồi ha , nhất_là đối_với mấy bạn học_sinh , sinh_viên .
+569	4	1	Dì mới đổi địa_chỉ mới : hẻm 100 , Hùng_Vương , P. 9 , Quận 5 , TP. HCM .
+570	5	0	Vì khách đông quá nên giờ làm sẵn Cacao để trong tủ , mỗi lần làm sẵn cả trăm ly luôn , nên đến đông cũng không phải đợi như hồi đó nữa .
+571	2	0	15 k / ly chà bá lửa vậy nè
+572	3	0	Quán nhỏ những rất đông khách luôn á .
+573	1	2	Nói_chung với giá tiền này ăn_ở đây thì hơi phí , giá với chất_lượng ko tương xứng.Nhưng chắc do hợp_khẩu vị của người khu này nên thấy khách cũng đông lạ_thường .
+574	1	0	Hủ_tiếu mực thì quá quen_thuộc ăn cũng nhiều lần rồi , quán này mình thấy có hủ_tiếu hàu khá lạ lâu_lâu đổi vị thử xem sao .
+575	1	0	Vị hải_sản tự_nhiên ngập_tràn tận nước dùng .
+576	1	0	Hủ_tiếu hàu 45k Hàu quán sử_dụng là loại hàu đá , thịt hàu đá dai hơn và đậm vị hơn .
+577	1	0	Thịt hàu khá to và tươi .
+578	1	0	Nước_chấm hải_sản không gì khác ngoài muối ớt xanh .
+579	1	0	Vị hàu béo ngậy mang chút hương_vị biển rõ_rệt khi ăn .
+580	1	0	Trong tô còn có 1 viên thịt bằm .
+581	1	0	Hủ_tiếu mực 38k Hủ_tiếu mực cũng không kém_cạnh , mực đầy_ắp trong tô .
+582	1	0	Vị thơm nồng_nàn của mực hoà nguyện nước dùng .
+583	1	0	Cháo hàu tôm mực 75k Đây là tô cháo đầy_đủ dinh_dưỡng nhé .
+584	1	0	Hàu có khoảng 3 con , tôm tầm 2 con ( nếu mình nhớ không lầm ) , mực thì tràn_trề không tô .
+585	1	0	Mỗi muỗng cháo múc lên toàn hải_sản với hải_sản .
+586	1	0	Với cháo cũng có_thể gắp riêng ra chấm muối ớt xanh .
+587	1	0	Cháo độ đặc vừa_phải , dễ ăn .
+588	4	0	Quán bán cũng lâu rồi , nằm ngay mặt_tiền Tân_Hoà_Đông , đối_diện đền thờ .
+589	1	0	Giá 25k một tô thôi nha mấy bạn .
+590	3	0	Mình hay đi ăn vào buổi chìu tối từ 17h -22 h , nên không rõ buổi sáng quán có bán không nữa .
+591	3	0	Khách ghé quán ra vô liên_tục , nên nhiều khi full chỗ để xe , nhưng có người đứng trông xe nên cũng yên_tâm .
+592	1	0	: 3 Đây là tô hủ_tiếu thập_cẩm đây , có tôm , cá viên , mực_tàu , gan , thịt heo , cật .
+593	1	0	Quán có bán hoành_thánh , mì , có cả xương với sườn non luôn , mà 2 món này mình chưa ăn thử nữa .
+594	1	0	Tôm to chứ hok có nhỏ_bé j đâu nghen Cật heo ở đây làm_ăn không bị hôi , trắng .
+595	1	1	Bò_Tùng_Xẻo - 260 k / dĩa Quán không có cho để hai lò lên 1 bàn vì sợ nóng .
+596	1	0	Tính ra phần bò này đề_pa khởi_động thì cỡ tầm 3 người ăn là vừa đã
+597	1	0	Thịt được ướp theo công_thức đặc_biệt cả rồi .
+598	1	0	nên mềm ngọt luôn !
+599	1	0	Nướng tái tái tí ăn là ngon nhất .
+600	1	0	Chấm với muối_tiêu chanh : ) ) Cái này hok biết chấm muối ớt hột thì ra sao hen .
+601	0	0	Được_cái trong cũng thoáng mát .
+602	1	0	Menu quán cũng đơn_giản lắm : Toàn đặc_sản thôi : ) Cái lẩu Cua_Gạch là ăn bao ngon luôn nè .
+603	1	0	Cái gà chiên nướng mắm cũng ngon .
+604	1	0	Gà ta chặt nhỏ đem đi chiên xào sơ với mắm : ) ) Hình bên dưới là mấy thánh ấy bào còn mỗi cái đầu : v Quán có thâm_niên cũng lâu rồi .
+605	4	1	Khu này là khu chợ nên có rất nhìu đồ_ăn khá ok , đặc_biệt trong đó là quán chè ngay phía đầu đường đi vào 1 tí gập nhã 3 là thấy ngay .
+606	1	1	Chè bánh lọt 10k nè .
+607	1	0	Bánh bên trong nè , nhìn hấp_dẫn chưa .
+608	2	0	Đậu_nành 4 k / bịch , chè 10k bịch đem về nè .
+609	1	0	Có cả bánh cam 4 k / cái nữa nè .
+610	1	0	Bánh_bò cũng 4k nhé .
+611	1	0	Giá_thành chợ thì khá ok rồi .
+612	1	0	Ăn cũng ngon , chè rẽ mà ăn thích lắm luôn ấy .
+613	3	0	Mỏi lần đợi vk đi chợ là phải làm ở đây vài ly mới chịu dc .
+614	4	1	Quán này nằm ở địa chị 87A đường Phạm_Phú_Thứ , P. 3 , Q. 6 , trên xe đẩy có dán bản giá luôn nha mấy bạn .
+615	1	1	Hủ_tiếu Nam_Vang thì 23 k / tô , hủ_tiếu mì , mì gói thập_cẩm , hoành_thánh thì 25 k / tô .
+616	1	1	Đây là 2 tô hủ_tiếu Nam_Vang mình gọi nè , nhìn cũng hấp_dẫn mà hơi ít thịt , đúng là tiền_nào_của_nấy nên không_thể so_sánh được !
+617	5	0	Cô chủ cho thêm 1 dĩa rau ăn kèm , ai thích ăn rau chín thì nhờ cô trụng chín giùm nha , cô rất dễ_chịu , xin thêm rau cho hẳn 1 dĩa luôn .
+618	1	0	Mình có ăn thử qua , thấy cũng ngon .
+619	3	1	Quán bán buổi tối nha các bạn , ai đi chơi về đói có_thể ghé đây ăn thử heng !
+620	1	0	Khu_vực bếp phía trước nhìn cũng ok , đò ăn đựng trong tô nhìn sạch_sẽ gọn_gàng 1 tô để sẵn đồ để múc ra cho khách nè Chúc mọi người ăn ngon_miệng nha
+621	3	0	đi vòng_vòng khu này tìm món gì bỏ bụng thì vô_tình thấy quán này , kế bên quán chè campuchia làm_mưa_làm_gió đã có rv trên DDAU thấy cái bảng_hiệu khá ấn_tượng nên bay vào thử lun .
+622	4	1	Chỗ này ngay hẻm 57 Hồ Thị kỷ nha , tói đông khách lắm .
+623	1	0	Hủ_tiếu ốc ở đây ăn cực ngon , lạ_miệng không ngán .
+624	1	1	Mình kêu thêm 1 phấn há cảo 18 k / 3 viên mà chỉ còn 2 viên nên lấy thêm 1 viên xíu_mại 5k .
+625	2	1	Ăn xog kêu thêm 2 ly hồng trà với bạc_hà 10 k / ly ngay quán uống luôn .
+626	3	0	Hai đứa ăn_uống no cành hông mà chỉ có 89k thôi !
+627	1	0	Nước dùng có nước dừa nhưng rất ít chứ nếu dùng nhiêu thì không giữ được độ tươi của ốc .
+628	1	0	Nước_chấm kẹo kẹo ngon lắm , nước dùng vừa_miệng ăn kèm với bánh_mì là hêt sảy luôn .
+629	3	0	Nhìn_chung thì quán ăn ổn , món moiws là phá lấu ốc siêu ngon luôn nên thử món này khi đến đây nhé .
+630	1	2	Nhưng khi ăn mình hơi thất_vọng vì cơm trắng chứ ko phải cơm nấu chung với nước gà , hay_là tại mình ăn xá_xíu nên thế nhỉ ?
+631	4	2	Quán hơi khó tìm vì địa_chỉ hơi tùm_lum xíu .
+632	1	0	Quán bán cả hủ_tiếu khô và nước nha , mình kết hủ_tiếu khô nên chưa thử hủ_tiếu nước bao_giờ .
+633	1	0	Sườn non hầm mềm nhai đã lắm nhen .
+634	1	0	Trộn lên 1 tô đầy ăm_ắp ăn no cành hông luôn nà .
+635	3	1	Quán bán buổi sáng thôi nhen !
+636	1	0	Trời mưa ăn hủ_tiếu với hoành_thánh nóng thì còn gì bằng .
+637	5	0	Gia_vị , tương_ớt , nước_tương ở mỗi bàn Mình gọi thì khoảng 3 phút có liền .
+638	1	1	Tô hoành_thánh của mình chỉ lấy tôm thôi .
+639	1	0	Quá_trời hủ tíu .
+640	1	0	Hoành_thánh nhân thịt cũng khá to chứ không phải chút_xíu như mấy xe mì gõ.hehe.
+641	1	0	Cận_cảnh Em Tôm khá to so với cái muỗng nhé .. Còn bạn mình thì hủ tíu khô .
+642	1	0	Chén thịt cũng nhiều quá_trời , nào thịt nac , nào hoành_thánh , tôm rồi thịt xay và gan .
+643	1	0	Mỗi tô thì kèm theo 1 chén tương đen để chấm ăn kèm .
+644	1	0	Hết có_thể xin thêm .
+645	1	0	Nọc thắc_mắc vì sao 1 địa_điểm ngon như_vậy mà đi khắp các diễn_đàn cũng chưa thấy ai review chi hết .
+646	3	0	Ai ghiền món này mà hổng ăn_ở đây là 1 sai_lầm và thiếu_sót trầm_trọng .
+647	1	0	Rất nổi_tiếng ở khu Tân_Định đó nha Vàng_choé vậy nè , dễ nhận_biết lắm nha Vừa sà vào chưa ăn đã thèm vì cớ gì mà thơm quá_xá , xí_quách chắc thịt ghê hông ? !
+648	1	0	Mâm gà có 6 món nha , thêm dĩa gỏi nữa nè .
+649	1	0	Chấm với muối_tiêu chanh và nước_mắm gừng là toẹt zời heng !
+650	1	0	Chia ra để khỏi quánh lộn và mỗi đứa được 1 chén đầy ụ thế_này nè .
+651	1	0	Quất hết mâm gà lên mâm cảm_thấy vẫn còn lơ_lửng nên tụi mình quyết_định order thêm 2 chảo 1 chảo lòng gà trứng non và bó né trứng non .
+652	1	2	Thua xa dưa lưới và dưa_hấu .
+653	1	0	Đá tuyết mịn và béo ngậy lun hí hí Sau đây là menu quán
+654	3	0	Quán này hồi trước nhớ đông dữ lắm , do trào_lưu bingsu đang hot , bởi_vậy nên mình lười vô vì phải chờ_đợi và nhiều khi hết chỗ nữa .
+655	1	0	Có lớp đá bào với sữa ở dưới ngọt béo , vừa ăn 1 viên dưa_hấu , vừa làm 1 muỗng đá bào ngon tuyệt .
+656	1	0	Do hình_thức nhìn đẹp chỉ muốn nhào vô ăn ngay thôi .
+657	0	0	Trên tầng 2 có không_gian trong nhà và ngoài_trời luôn .
+658	5	1	Chờ cũng ko lâu lắm đâu .
+659	1	0	Bào thôi ^ ^ Rưới nước này lên Bên trong có kem nữa nhưng nó tan nhanh quá .
+660	1	0	Món này ngon nhưng làm_sao cho nó lạnh lâu hơn_nữa đi là mình ưng lắm luôn .
+661	1	1	Còn các món khác thì cũng k hấp_dẫn lắm .
+662	0	0	Không_gian khá đẹp nhưng yên_tĩnh , khách ra vào từng lượt k quá đông .
+663	0	1	Nói_chung không_gian mang tính công_nghiệp để tạo sự chuyên_nghiệp chứ k cảm_thấy gần_gũi thực_sự !
+664	1	1	Món_Bingsu dưa lưới 130k .
+665	1	2	Nguội và cũng không hấp_dẫn
+666	5	1	Bánh_mì nướng lên khá nhanh .
+667	1	1	Còn kem thì mình gọi ly kem trà xanh và kem dưa lưới .
+668	1	1	Ly kem trà xanh của mình thì có_viên kem trà xanh bé nằm trên cùng bên dưới toàn là đá bào và nước có vị trà xanh .
+669	1	1	Kem dưa lưới thì bên trên sắp đầy dưa lưới bên dưới là đá bào sữa .. Ăn thì cũng như ăn trái_cây bình_thường , khác lạ là ở chỗ đá bào xây mịn và có vị sữa .
+670	5	1	Phục_vụ thì tự_phục_vụ , tự đi lấy nước_lọc và khăn giấy .
+671	5	2	Nhưng có cái chỗ này ko chuyên_nghiệp cho lắm , quán ko gọi là quá đông , lúc mình vô thì cũng có khách cả nhưng hầu_hết là ngồi lâu rồi .
+672	5	2	Vậy_mà lúc lên đồ_ăn thì ly kem trà xanh của mình nữa tiếng mới có .
+673	5	2	Còn kem dưa lưới thì chậm hơn chút mà_còn lên nhầm nữa .
+674	0	0	Ăn điểm ở chỗ có không_gian đẹp , thích_hợp mấy bạn yêu nhau đi .
+675	5	2	Bỏ tiền để phục_vụ , vậy_mà vào k có nhân_viên phục_vụ , uống nc còn p tự lấy !
+676	5	2	Nv giữ xe thì trời mưa k nỡ mag đồ cất dùm khách !
+677	5	2	Đã vậy về k dắt xe cho khách !
+678	1	1	Đc mỗi trái_cây cũg đc !
+679	2	2	Còn nc ép với cf thì trời_ơi nó dỡ tệ uốg k đc phải bỏ luôn !
+680	3	2	Bán thì đắt hơn nơi khác nhìu !
+681	5	2	Mà cách phục_vụ chả ra j !
+682	3	2	Đi một lần k dám qay lại luôn ...
+683	3	0	Nhà_hàng Nhật ngon nhất từng ăn .
+684	1	0	Set lunch gà teriyaki ăn cũng ngon .
+685	1	0	1 phần " Gà lên mâm " to cho 4 người gồm có : Gà ngũ_vị , Gà xá_xíu , Gà lá chanh , Gà muối ớt , Xôi nước_cốt gà , Gỏi gà , Trứng non & Mề_gà nước_mắm .
+686	1	2	Xôi gà ko đậm mùi nước luộc gà , thịt gà món nào cũng khô , cứng và mặn , chỉ có gà lá chanh là tạm được .
+687	1	2	Gỏi gà là món tệ nhất vì nước trộn quá ngọt , rồi trộn xà_lách chung với gỏi ăn nó cứ kỳ kỳ sao á .
+688	1	2	Phải_chi gỏi chua hơn và trộn với bắp_cải ko thôi là ngon rồi .
+689	1	2	Trứng non khô và nguội , mề_gà ko gì đặc_biệt .
+690	1	2	Nói_chung trên mâm ko có món nào ngon , mấy dĩa sụn gà kêu riêng ăn còn được hơn nhiều .
+691	1	0	Lần đầu_tiên được dùng món tại đây , thực_đơn đa_phần là món Âu vị khá lạ .
+692	1	0	Ấn_tượng nhất là món gan ngỗng và bò nướng tiêu xanh .
+693	1	0	Gan ngỗng béo ơi_là béo , miếng thăn bò dày kinh_khủng nhưng rất mềm , không dai , ướp rất thấm gia_vị .
+694	1	0	Bánh ngọt cũng rất ngon , mình rất hài_lòng .
+695	3	0	Cứ mỗi lần thèm thèm lại ghé đến quán .
+696	1	0	Món ăn ở đây chế biến khá đúng vị của miền Trung , đặc biệt là mấy loại bún và mì Quảng .
+697	1	0	Menu quán nè , có rất nhiều món cho các bạn lựa chọn luôn nhé .
+698	1	0	nhìn chung món nào cũng ngon hết á .
+699	1	0	Đây là bún cá cam nè ... nguyên một tô bự chà bá luôn á , bảo đảm một người ăn một tô là no cành hông mà lại ngon nữa chứ .
+700	1	0	Còn đây là bún mắm nêm nè ... bún mắm nêm này nếu biết ăn thì phải ăn thịt từ lỗ tai heo mới ngon nha , vì nó có gân giòn giòn khi ăn sẽ rất thú vị .
+701	1	0	Ở đây ngoài mấy món bún mặn còn có bún chay nữa á nha .
+702	1	0	Tô bún này là bún cà ri chay ... ăn cũng khá ok .
+703	1	0	Một tô mì Quảng đúng điệu , bảo đảm ăn là ghiền liền luôn á ... Chụp thêm cái mặt tiền của quán gì đó cho các bạn xem nè , chụp buổi tối nên hình hơi tối , thông cảm nhé ...
+704	4	0	Trực_thuộc khu_vực Q3 khá đông và có nhìu quán_xá .
+705	1	1	Yaourt trái_cây thập_cẩm 38k .
+706	1	0	Trái_cây tập cẩm mà có kiwi nữa là bít chất_lượng rồi nha ^ ^ .
+707	1	1	Trái_cây xô 60 k / 2ng ăn đó .
+708	1	0	Bự chà bá chứ chả chơi .
+709	2	1	Nước ép chanh dây 30k .
+710	3	0	Đánh_giá chung chất trong tầm giá , vệ_sinh và ngồi máy_lạnh salon là khá ok rồi còn gì ^ ^
+711	4	1	Đường thì nhỏ , mà quá_trời chỗ bán quần_áo xung_quanh , nên khá dễ đi hố qua , quán này nằm bên phía gần điện_biên_phủ đó nha các bạn " chẻ " : ) ) .
+712	1	0	Tại 3 loại trái_cây này ăn cực_kì đẹp da luôn nha mấy chế : ) ) .
+713	1	1	Nha đam ở đây bỏ gân ko sạch , nên ăn hơi bị nhẫn nhẫn tí , quăng qua cho ảnh ăn giùm : ) ) Ổng thì ăn_to_nói_lớn nên gọi cái phần cũng bự khác_thường hơn ng ta .
+714	1	1	Phần của ổng là Yaourt trái_cây thập_cẩm 32k .
+715	1	1	Phần của chả rất nhiều loại trái_cây , gần như quán có bao_nhiêu trái_cây là nằm trong tô này hết .
+716	1	1	Trên mặt thay_vì cho đậu_phộng hay dừa khô như một_số nơi thì ở đây rắc ngũ_cốc lên trên mặt .
+717	1	0	Cho sữa_chua và đá để lạnh lạnh ăn mới ngon .
+718	1	0	Nhìn của gấu hấp_dẫn quá , chọt qua ăn ké : P . Bên dưới còn có mít , dừa sợi , thơm , nhãn , sapô nữa chứ .
+719	1	0	Biết vậy lúc đầu gọi phần này là phủ_phê rồi : D . Sữa_chua chỗ này pha hơi ngọt , mà ngọt vậy ăn với mấy loại trái_cây chua ngon đó chứ .
+720	1	1	Một bữa ăn trái_cây sữa_chua dinh_dưỡng đẹp da ko sợ mập của 2 đứa tốn hết 70k chẵn .
+721	1	0	Ăn đã miệng lắm .
+722	1	0	Món ăn được chế_biến hợp_khẩu vị .
+723	1	1	Các món ốc thì khoảng 45 k - 55k .
+724	1	1	Có cua , tôm , ốc_hương và một_số món khác là theo thời_giá .
+725	1	0	Nước_chấm ok .
+726	1	0	Tép mỡ ăn thấy mà đã luôn đó , Sò_huyết xào tỏi 55k , con sò to chứ ko phải bé xí xí đâu Sụn gà trứng non chiên nước_mắm cũng có tóp_mỡ .
+727	5	0	Nhân_viên nhiệt_tình .
+728	5	1	Nhưng nhiều khi lên món hơi lâu tí .
+729	4	1	Địa_chỉ ngay số 25 1/5 1 .
+730	1	1	Giá dao_động tuỳ theo size lớn_nhỏ , 150 k / cho một lẩu nhỏ , bao_gồm lun rau giá và bún .
+731	3	0	Quán kem hoa_hồng này dạo gần đây hot quá_chừng nên mình cũng đi ăn thử .
+732	1	0	Roseice được giới_thiệu là kem gelato của Ý được làm trực_tiếp tại cửa_hàng luôn , mỗi ngày bán gần 10 mùi_vị kem khác nhau cho các bạn lựa_chọn nha .
+733	1	1	Cá mắt ngọc ướp sốt 99k .
+734	1	1	Sườn heo ướp sốt cay 159k .
+735	1	1	Má heo Mỹ 119k .
+736	1	1	Mực ống to sốt cay 159k .
+737	1	1	Đùi gà sốt BBQ thì quá cơ_bản rồi .
+738	1	0	Mì_Ý nêm nếm khá vừa ăn .
+739	1	2	Không_gian nhà_hàng : MENU : Mình gọi súp khoai_tây : Súp ăn cũng được , may loại súp này toàn phải 2 người an 1 dĩa chứ 1 nguoi thì khó_chịu nổi độ béo của nó lắm .
+740	5	0	Nhân_viên rất là nhanh_nhẹn , ko phải chờ_đợi lâu .
+741	1	0	Ngoài_ra rau cải xào ở đây cũng rất ngon nhé .
+742	2	0	Trà vải ở đây ly khá to và đặc_biệt là cho rất nhiều vải , khoảng 4 5 trái vì đó .
+743	2	0	Vị trà vừa không quá ngọt , hương_trà vẫn không bị hương vải quá lấn_át như nhiều chổ khác .
